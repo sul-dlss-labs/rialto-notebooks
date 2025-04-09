@@ -1,0 +1,13 @@
+[project]
+name = "rialto-notebooks"
+version = "0.1.0"
+description = "Jupyter notebooks for working with Rialto data"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "jupyterlab>=4.4.0",
+    "pandas>=2.2.3",
+    "psycopg2-binary>=2.9.10",
+    "sqlalchemy>=2.0.40",
+]
