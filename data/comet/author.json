@@ -1,0 +1,3904 @@
+{
+  "apc": 11690,
+  "authors": [
+    {
+      "academic_council": true,
+      "author_id": 21,
+      "cap_profile_id": "18449",
+      "created_at": "2025-07-11 22:25:00.176924",
+      "departments": [
+        "Wu Tsai Neurosciences Institute",
+        "Bio-X",
+        "Natural Sciences"
+      ],
+      "first_name": "Christopher",
+      "id": 21,
+      "last_name": "Lowe",
+      "orcid": "https://orcid.org/0000-0002-7789-8643",
+      "primary_dept": "Natural Sciences",
+      "primary_division": "Biology",
+      "primary_role": "faculty",
+      "primary_school": "School of Humanities and Sciences",
+      "publication_id": 21,
+      "schools": [
+        "Independent Labs, Institutes, and Centers (Dean of Research)",
+        "School of Humanities and Sciences"
+      ],
+      "status": true,
+      "sunet": "clowe",
+      "updated_at": null
+    }
+  ],
+  "created_at": "2025-07-11 22:28:41.987515",
+  "crossref_json": {
+    "DOI": "10.1038/s41586-023-06669-2",
+    "ISSN": [
+      "0028-0836",
+      "1476-4687"
+    ],
+    "URL": "https://doi.org/10.1038/s41586-023-06669-2",
+    "alternative-id": [
+      "6669"
+    ],
+    "assertion": [
+      {
+        "group": {
+          "label": "Article History",
+          "name": "ArticleHistory"
+        },
+        "label": "Received",
+        "name": "received",
+        "order": 1,
+        "value": "3 February 2023"
+      },
+      {
+        "group": {
+          "label": "Article History",
+          "name": "ArticleHistory"
+        },
+        "label": "Accepted",
+        "name": "accepted",
+        "order": 2,
+        "value": "22 September 2023"
+      },
+      {
+        "group": {
+          "label": "Article History",
+          "name": "ArticleHistory"
+        },
+        "label": "First Online",
+        "name": "first_online",
+        "order": 3,
+        "value": "1 November 2023"
+      },
+      {
+        "group": {
+          "label": "Competing interests",
+          "name": "EthicsHeading"
+        },
+        "name": "Ethics",
+        "order": 1,
+        "value": "P.P. and D.R.R. are employees and shareholders of Pacific Biosciences. The remaining authors declare no competing interests."
+      }
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0230-4051",
+        "affiliation": [],
+        "authenticated-orcid": false,
+        "family": "Formery",
+        "given": "L.",
+        "sequence": "first"
+      },
+      {
+        "affiliation": [],
+        "family": "Peluso",
+        "given": "P.",
+        "sequence": "additional"
+      },
+      {
+        "affiliation": [],
+        "family": "Kohnle",
+        "given": "I.",
+        "sequence": "additional"
+      },
+      {
+        "affiliation": [],
+        "family": "Malnick",
+        "given": "J.",
+        "sequence": "additional"
+      },
+      {
+        "affiliation": [],
+        "family": "Thompson",
+        "given": "J. R.",
+        "sequence": "additional"
+      },
+      {
+        "affiliation": [],
+        "family": "Pitel",
+        "given": "M.",
+        "sequence": "additional"
+      },
+      {
+        "affiliation": [],
+        "family": "Uhlinger",
+        "given": "K. R.",
+        "sequence": "additional"
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8704-2224",
+        "affiliation": [],
+        "authenticated-orcid": false,
+        "family": "Rokhsar",
+        "given": "D. S.",
+        "sequence": "additional"
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9213-6965",
+        "affiliation": [],
+        "authenticated-orcid": false,
+        "family": "Rank",
+        "given": "D. R.",
+        "sequence": "additional"
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7789-8643",
+        "affiliation": [],
+        "authenticated-orcid": false,
+        "family": "Lowe",
+        "given": "C. J.",
+        "sequence": "additional"
+      }
+    ],
+    "container-title": [
+      "Nature"
+    ],
+    "content-domain": {
+      "crossmark-restriction": false,
+      "domain": [
+        "link.springer.com"
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          1
+        ]
+      ],
+      "date-time": "2023-11-01T17:02:10Z",
+      "timestamp": 1698858130000
+    },
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          16
+        ]
+      ],
+      "date-time": "2023-11-16T08:03:26Z",
+      "timestamp": 1700121806000
+    },
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2025-07-01T19:33:49Z",
+      "timestamp": 1751398429733,
+      "version": "3.37.3"
+    },
+    "is-referenced-by-count": 40,
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0028-0836"
+      },
+      {
+        "type": "electronic",
+        "value": "1476-4687"
+      }
+    ],
+    "issue": "7987",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          1
+        ]
+      ]
+    },
+    "journal-issue": {
+      "issue": "7987",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            16
+          ]
+        ]
+      }
+    },
+    "language": "en",
+    "license": [
+      {
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining",
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2023-11-01T00:00:00Z",
+          "timestamp": 1698796800000
+        }
+      },
+      {
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining",
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2023-11-01T00:00:00Z",
+          "timestamp": 1698796800000
+        }
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41586-023-06669-2.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41586-023-06669-2",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41586-023-06669-2.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "member": "297",
+    "page": "555-561",
+    "prefix": "10.1038",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          1
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          1
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          16
+        ]
+      ]
+    },
+    "publisher": "Springer Science and Business Media LLC",
+    "reference": [
+      {
+        "key": "6669_CR1",
+        "unstructured": "Hyman, L. H. The Invertebrates, Vol. IV, Echinodermata: The Coelomate Bilateria (McGraw-Hill, 1955)."
+      },
+      {
+        "DOI": "10.1111/j.1525-142X.2008.00260.x",
+        "author": "AB Smith",
+        "doi-asserted-by": "publisher",
+        "first-page": "493",
+        "journal-title": "Evol. Dev.",
+        "key": "6669_CR2",
+        "unstructured": "Smith, A. B. Deuterostomes in a twist: the origins of a radical new body plan. Evol. Dev. 10, 493\u2013503 (2008).",
+        "volume": "10",
+        "year": "2008"
+      },
+      {
+        "DOI": "10.1371/journal.pbio.2001573",
+        "author": "B Albuixech-Crespo",
+        "doi-asserted-by": "publisher",
+        "first-page": "e2001573",
+        "journal-title": "PLoS Biol.",
+        "key": "6669_CR3",
+        "unstructured": "Albuixech-Crespo, B. et al. Molecular regionalization of the developing amphioxus neural tube challenges major partitions of the vertebrate brain. PLoS Biol. 15, e2001573 (2017).",
+        "volume": "15",
+        "year": "2017"
+      },
+      {
+        "DOI": "10.1016/S0092-8674(03)00469-0",
+        "author": "CJ Lowe",
+        "doi-asserted-by": "publisher",
+        "first-page": "853",
+        "journal-title": "Cell",
+        "key": "6669_CR4",
+        "unstructured": "Lowe, C. J. et al. Anteroposterior patterning in hemichordates and the origins of the chordate nervous system. Cell 113, 853\u2013865 (2003).",
+        "volume": "113",
+        "year": "2003"
+      },
+      {
+        "DOI": "10.1038/nature10838",
+        "author": "AM Pani",
+        "doi-asserted-by": "publisher",
+        "first-page": "289",
+        "journal-title": "Nature",
+        "key": "6669_CR5",
+        "unstructured": "Pani, A. M. et al. Ancient deuterostome origins of vertebrate brain signalling centres. Nature 483, 289\u2013294 (2012).",
+        "volume": "483",
+        "year": "2012"
+      },
+      {
+        "DOI": "10.1098/rstb.2001.0972",
+        "author": "H Reichert",
+        "doi-asserted-by": "publisher",
+        "first-page": "1533",
+        "journal-title": "Philos. Trans. R. Soc. Lond. B",
+        "key": "6669_CR6",
+        "unstructured": "Reichert, H. & Simeone, A. Developmental genetic evidence for a monophyletic origin of the bilaterian brain. Philos. Trans. R. Soc. Lond. B 356, 1533\u20131544 (2001).",
+        "volume": "356",
+        "year": "2001"
+      },
+      {
+        "DOI": "10.1242/dev.00438",
+        "author": "F Hirth",
+        "doi-asserted-by": "publisher",
+        "first-page": "2365",
+        "journal-title": "Development",
+        "key": "6669_CR7",
+        "unstructured": "Hirth, F. et al. An urbilaterian origin of the tripartite brain: developmental genetic insights from Drosophila. Development 130, 2365\u20132373 (2003).",
+        "volume": "130",
+        "year": "2003"
+      },
+      {
+        "DOI": "10.1016/j.cell.2010.07.043",
+        "author": "R Tomer",
+        "doi-asserted-by": "publisher",
+        "first-page": "800",
+        "journal-title": "Cell",
+        "key": "6669_CR8",
+        "unstructured": "Tomer, R., Denes, A. S., Tessmar-Raible, K. & Arendt, D. Profiling by image registration reveals common origin of annelid mushroom bodies and vertebrate pallium. Cell 142, 800\u2013809 (2010).",
+        "volume": "142",
+        "year": "2010"
+      },
+      {
+        "DOI": "10.1046/j.1525-142x.1999.99026.x",
+        "author": "LD Bromham",
+        "doi-asserted-by": "publisher",
+        "first-page": "166",
+        "journal-title": "Evol. Dev.",
+        "key": "6669_CR9",
+        "unstructured": "Bromham, L. D. & Degnan, B. M. Hemichordates and deuterostome evolution: robust molecular phylogenetic support for a hemichordate\u2009+\u2009echinoderm clade. Evol. Dev. 1, 166\u2013171 (1999).",
+        "volume": "1",
+        "year": "1999"
+      },
+      {
+        "DOI": "10.1073/pnas.97.9.4469",
+        "author": "CB Cameron",
+        "doi-asserted-by": "publisher",
+        "first-page": "4469",
+        "journal-title": "Proc. Natl Acad. Sci. USA",
+        "key": "6669_CR10",
+        "unstructured": "Cameron, C. B., Garey, J. R. & Swalla, B. J. Evolution of the chordate body plan: new insights from phylogenetic analyses of deuterostome phyla. Proc. Natl Acad. Sci. USA 97, 4469\u20134474 (2000).",
+        "volume": "97",
+        "year": "2000"
+      },
+      {
+        "DOI": "10.1186/2041-9139-5-22",
+        "doi-asserted-by": "crossref",
+        "key": "6669_CR11",
+        "unstructured": "David, B. & Mooi, R. How Hox genes can shed light on the place of echinoderms among the deuterostomes. EvoDevo 5, 22 (2014)."
+      },
+      {
+        "DOI": "10.1038/nature14434",
+        "author": "CJ Lowe",
+        "doi-asserted-by": "publisher",
+        "first-page": "456",
+        "journal-title": "Nature",
+        "key": "6669_CR12",
+        "unstructured": "Lowe, C. J., Clarke, D. N., Medeiros, D. M., Rokhsar, D. S. & Gerhart, J. The deuterostome context of chordate origins. Nature 520, 456\u2013465 (2015).",
+        "volume": "520",
+        "year": "2015"
+      },
+      {
+        "DOI": "10.1038/39580",
+        "author": "CJ Lowe",
+        "doi-asserted-by": "publisher",
+        "first-page": "718",
+        "journal-title": "Nature",
+        "key": "6669_CR13",
+        "unstructured": "Lowe, C. J. & Wray, G. A. Radical alterations in the roles of homeobox genes during echinoderm evolution. Nature 389, 718\u2013721 (1997).",
+        "volume": "389",
+        "year": "1997"
+      },
+      {
+        "DOI": "10.1038/s42003-020-1091-1",
+        "doi-asserted-by": "crossref",
+        "key": "6669_CR14",
+        "unstructured": "Li, Y. et al. Genomic insights of body plan transitions from bilateral to pentameral symmetry in Echinoderms. Com. Biol. 3, 371 (2020)."
+      },
+      {
+        "author": "E Popodi",
+        "first-page": "540",
+        "journal-title": "Dev. Biol.",
+        "key": "6669_CR15",
+        "unstructured": "Popodi, E.,Andrews, M. & Raff, R. A. Evolution of body plans: using homeobox genes to examine the development of the radial CNS of echinoderms. Dev. Biol. 163, 540 (1994).",
+        "volume": "163",
+        "year": "1994"
+      },
+      {
+        "author": "SV Rozhnov",
+        "first-page": "171",
+        "journal-title": "Nat. Sci.",
+        "key": "6669_CR16",
+        "unstructured": "Rozhnov, S. V. Symmetry of echinoderms: from initial bilaterally-asymmetric metamerism to pentaradiality. Nat. Sci. 6, 171\u2013183 (2014).",
+        "volume": "6",
+        "year": "2014"
+      },
+      {
+        "DOI": "10.1242/jeb.109108",
+        "author": "LZ Holland",
+        "doi-asserted-by": "publisher",
+        "first-page": "637",
+        "journal-title": "J. Exp. Biol.",
+        "key": "6669_CR17",
+        "unstructured": "Holland, L. Z. Evolution of basal deuterostome nervous systems. J. Exp. Biol. 218, 637\u2013645 (2015).",
+        "volume": "218",
+        "year": "2015"
+      },
+      {
+        "DOI": "10.1111/ede.12172",
+        "author": "M Byrne",
+        "doi-asserted-by": "publisher",
+        "first-page": "137",
+        "journal-title": "Evol. Dev.",
+        "key": "6669_CR18",
+        "unstructured": "Byrne, M., Martinez, P. & Morris, V. Evolution of a pentameral body plan was not linked to translocation of anterior Hox genes: the echinoderm HOX cluster revisited. Evol. Dev. 18, 137\u2013143 (2016).",
+        "volume": "18",
+        "year": "2016"
+      },
+      {
+        "DOI": "10.1046/j.1525-142x.2000.00042.x",
+        "author": "KJ Peterson",
+        "doi-asserted-by": "publisher",
+        "first-page": "93",
+        "journal-title": "Evol. Dev.",
+        "key": "6669_CR19",
+        "unstructured": "Peterson, K. J., Arenas\u2010Mena, C. & Davidson, E. H. The A/P axis in echinoderm ontogeny and evolution: evidence from fossils and molecules. Evol. Dev. 2, 93\u2013101 (2000).",
+        "volume": "2",
+        "year": "2000"
+      },
+      {
+        "DOI": "10.1242/dev.127.21.4631",
+        "author": "C Arenas-Mena",
+        "doi-asserted-by": "publisher",
+        "first-page": "4631",
+        "journal-title": "Development",
+        "key": "6669_CR20",
+        "unstructured": "Arenas-Mena, C., Cameron, A. R. & Davidson, E. H. Spatial expression of Hox cluster genes in the ontogeny of a sea urchin. Development 127, 4631\u20134643 (2000).",
+        "volume": "127",
+        "year": "2000"
+      },
+      {
+        "DOI": "10.1002/jez.b.21065",
+        "author": "VB Morris",
+        "doi-asserted-by": "publisher",
+        "first-page": "456",
+        "journal-title": "J. Exp. Zool. B Mol.",
+        "key": "6669_CR21",
+        "unstructured": "Morris, V. B. & Byrne, M. Involvement of two Hox genes and Otx in echinoderm body\u2010plan morphogenesis in the sea urchin Holopneustes purpurescens. J. Exp. Zool. B Mol. 304, 456\u2013467 (2005).",
+        "volume": "304",
+        "year": "2005"
+      },
+      {
+        "DOI": "10.1007/s00427-006-0108-1",
+        "author": "Y Hara",
+        "doi-asserted-by": "publisher",
+        "first-page": "797",
+        "journal-title": "Dev. Genes Evol.",
+        "key": "6669_CR22",
+        "unstructured": "Hara, Y. et al. Expression patterns of Hox genes in larvae of the sea lily Metacrinus rotundus. Dev. Genes Evol. 216, 797\u2013809 (2006).",
+        "volume": "216",
+        "year": "2006"
+      },
+      {
+        "DOI": "10.1007/s00427-010-0318-4",
+        "author": "P Cisternas",
+        "doi-asserted-by": "publisher",
+        "first-page": "613",
+        "journal-title": "Dev. Genes Evol.",
+        "key": "6669_CR23",
+        "unstructured": "Cisternas, P. & Byrne, M. Expression of Hox4 during development of the pentamerous juvenile sea star, Parvulastra exigua. Dev. Genes Evol. 219, 613\u2013618 (2009).",
+        "volume": "219",
+        "year": "2009"
+      },
+      {
+        "DOI": "10.1007/s00427-013-0457-5",
+        "author": "VB Morris",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "journal-title": "Dev. Genes Evol.",
+        "key": "6669_CR24",
+        "unstructured": "Morris, V. B. & Byrne, M. Oral\u2013aboral identity displayed in the expression of HpHox3 and HpHox11/13 in the adult rudiment of the sea urchin Holopneustes purpurescens. Dev. Genes Evol. 224, 1\u201311 (2014).",
+        "volume": "224",
+        "year": "2014"
+      },
+      {
+        "DOI": "10.1002/dvdy.24135",
+        "author": "J Tsuchimoto",
+        "doi-asserted-by": "publisher",
+        "first-page": "1020",
+        "journal-title": "Dev. Dynam.",
+        "key": "6669_CR25",
+        "unstructured": "Tsuchimoto, J. & Yamaguchi, M. Hox expression in the direct\u2010type developing sand dollar Peronella japonica. Dev. Dynam. 243, 1020\u20131029 (2014).",
+        "volume": "243",
+        "year": "2014"
+      },
+      {
+        "DOI": "10.1007/s00427-015-0510-7",
+        "author": "M Kikuchi",
+        "doi-asserted-by": "publisher",
+        "first-page": "275",
+        "journal-title": "Dev. Genes Evol.",
+        "key": "6669_CR26",
+        "unstructured": "Kikuchi, M., Omori, A., Kurokawa, D. & Akasaka, K. Patterning of anteroposterior body axis displayed in the expression of Hox genes in sea cucumber Apostichopus japonicus. Dev. Genes Evol. 225, 275\u2013286 (2015).",
+        "volume": "225",
+        "year": "2015"
+      },
+      {
+        "DOI": "10.1002/dvdy.24686",
+        "author": "S Adachi",
+        "doi-asserted-by": "publisher",
+        "first-page": "1297",
+        "journal-title": "Dev. Dynam.",
+        "key": "6669_CR27",
+        "unstructured": "Adachi, S. et al. Anteroposterior molecular registries in ectoderm of the echinus rudiment. Dev. Dynam. 247, 1297\u20131307 (2018).",
+        "volume": "247",
+        "year": "2018"
+      },
+      {
+        "DOI": "10.1016/j.cell.2014.09.038",
+        "author": "JP Junker",
+        "doi-asserted-by": "publisher",
+        "first-page": "662",
+        "journal-title": "Cell",
+        "key": "6669_CR28",
+        "unstructured": "Junker, J. P. et al. Genome-wide RNA tomography in the zebrafish embryo. Cell 159, 662\u2013675 (2014).",
+        "volume": "159",
+        "year": "2014"
+      },
+      {
+        "DOI": "10.1016/j.ydbio.2023.01.009",
+        "author": "H Tominaga",
+        "doi-asserted-by": "publisher",
+        "first-page": "52",
+        "journal-title": "Dev. Biol.",
+        "key": "6669_CR29",
+        "unstructured": "Tominaga, H., Nishitsuji, K. & Satoh, N. A single-cell RNA-seq analysis of early larval cell-types of the starfish, Patiria pectinifera: insights into evolution of the chordate body plan. Dev. Biol. 496, 52\u201362 (2023).",
+        "volume": "496",
+        "year": "2023"
+      },
+      {
+        "DOI": "10.1002/dvg.22840",
+        "author": "KW Baughman",
+        "doi-asserted-by": "publisher",
+        "first-page": "952",
+        "journal-title": "Genesis",
+        "key": "6669_CR30",
+        "unstructured": "Baughman, K. W. et al. Genomic organization of Hox and Para Hox clusters in the echinoderm, Acanthaster planci. Genesis 52, 952\u2013958 (2014).",
+        "volume": "52",
+        "year": "2014"
+      },
+      {
+        "DOI": "10.1242/dev.121.12.3923",
+        "author": "K Shimamura",
+        "doi-asserted-by": "publisher",
+        "first-page": "3923",
+        "journal-title": "Development",
+        "key": "6669_CR31",
+        "unstructured": "Shimamura, K., Hartigan, D. J., Martinez, S., Puelles, L. & Rubenstein, J. L. Longitudinal organization of the anterior neural plate and neural tube. Development 121, 3923\u20133933 (1995).",
+        "volume": "121",
+        "year": "1995"
+      },
+      {
+        "DOI": "10.1186/1749-8104-4-35",
+        "doi-asserted-by": "crossref",
+        "key": "6669_CR32",
+        "unstructured": "Quinlan, R., Graf, M., Mason, I., Lumsden, A. & Kiecker, C. Complex and dynamic patterns of Wnt pathway gene expression in the developing chick forebrain. Neural Dev. 4, 35 (2009)."
+      },
+      {
+        "DOI": "10.1002/dvdy.24584",
+        "author": "M Byrne",
+        "doi-asserted-by": "publisher",
+        "first-page": "239",
+        "journal-title": "Dev. Dynam.",
+        "key": "6669_CR33",
+        "unstructured": "Byrne, M. et al. Expression of genes and proteins of the pax\u2010six\u2010eya\u2010dach network in the metamorphic sea urchin: insights into development of the enigmatic echinoderm body plan and sensory structures. Dev. Dynam. 247, 239\u2013249 (2018).",
+        "volume": "247",
+        "year": "2018"
+      },
+      {
+        "DOI": "10.3390/cells11172636",
+        "author": "P Paganos",
+        "doi-asserted-by": "publisher",
+        "first-page": "2636",
+        "journal-title": "Cells",
+        "key": "6669_CR34",
+        "unstructured": "Paganos, P. et al. New model organism to investigate extraocular photoreception: opsin and retinal gene expression in the sea urchin Paracentrotus lividus. Cells 11, 2636 (2022).",
+        "volume": "11",
+        "year": "2022"
+      },
+      {
+        "DOI": "10.1016/j.cub.2016.10.047",
+        "author": "P Gonzalez",
+        "doi-asserted-by": "publisher",
+        "first-page": "87",
+        "journal-title": "Curr. Biol.",
+        "key": "6669_CR35",
+        "unstructured": "Gonzalez, P., Uhlinger, K. R. & Lowe, C. J. The adult body plan of indirect developing hemichordates develops by adding a Hox-patterned trunk to an anterior larval territory. Curr. Biol. 27, 87\u201395 (2017).",
+        "volume": "27",
+        "year": "2017"
+      },
+      {
+        "DOI": "10.1038/35053516",
+        "author": "W Wurst",
+        "doi-asserted-by": "publisher",
+        "first-page": "99",
+        "journal-title": "Nat. Rev. Neuro.",
+        "key": "6669_CR36",
+        "unstructured": "Wurst, W. & Bally-Cuif, L. Neural plate patterning: upstream and downstream of the isthmic organizer. Nat. Rev. Neuro. 2, 99\u2013108 (2001).",
+        "volume": "2",
+        "year": "2001"
+      },
+      {
+        "DOI": "10.1371/journal.pbio.2003698",
+        "author": "S Darras",
+        "doi-asserted-by": "publisher",
+        "first-page": "e2003698",
+        "journal-title": "PLoS Biol.",
+        "key": "6669_CR37",
+        "unstructured": "Darras, S. et al. Anteroposterior axis patterning by early canonical Wnt signaling during hemichordate development. PLoS Biol. 16, e2003698 (2018).",
+        "volume": "16",
+        "year": "2018"
+      },
+      {
+        "DOI": "10.1038/11932",
+        "author": "P Liu",
+        "doi-asserted-by": "publisher",
+        "first-page": "361",
+        "journal-title": "Nat. Genet.",
+        "key": "6669_CR38",
+        "unstructured": "Liu, P. et al. Requirement for Wnt3 in vertebrate axis formation. Nat. Genet. 22, 361\u2013365 (1999).",
+        "volume": "22",
+        "year": "1999"
+      },
+      {
+        "DOI": "10.1002/neu.480241006",
+        "author": "R Krumlauf",
+        "doi-asserted-by": "publisher",
+        "first-page": "1328",
+        "journal-title": "J. Neurobiol.",
+        "key": "6669_CR39",
+        "unstructured": "Krumlauf, R. et al. Hox homeobox genes and regionalisation of the nervous system. J. Neurobiol. 24, 1328\u20131340 (1993).",
+        "volume": "24",
+        "year": "1993"
+      },
+      {
+        "DOI": "10.1038/s41586-022-05636-7",
+        "author": "FM Mart\u00edn-Zamora",
+        "doi-asserted-by": "publisher",
+        "first-page": "105",
+        "journal-title": "Nature",
+        "key": "6669_CR40",
+        "unstructured": "Mart\u00edn-Zamora, F. M. et al. Annelid functional genomics reveal the origins of bilaterian life cycles. Nature 615, 105\u2013110 (2023).",
+        "volume": "615",
+        "year": "2023"
+      },
+      {
+        "DOI": "10.1038/376249a0",
+        "author": "SA Holley",
+        "doi-asserted-by": "publisher",
+        "first-page": "249",
+        "journal-title": "Nature",
+        "key": "6669_CR41",
+        "unstructured": "Holley, S. A. et al. A conserved system for dorsal\u2013ventral patterning in insects and vertebrates involving sog and chordin. Nature 376, 249\u2013253 (1995).",
+        "volume": "376",
+        "year": "1995"
+      },
+      {
+        "DOI": "10.1038/380037a0",
+        "author": "EM De Robertis",
+        "doi-asserted-by": "publisher",
+        "first-page": "37",
+        "journal-title": "Nature",
+        "key": "6669_CR42",
+        "unstructured": "De Robertis, E. M. & Sasai, Y. A common plan for dorsoventral patterning in Bilateria. Nature 380, 37\u201340 (1996).",
+        "volume": "380",
+        "year": "1996"
+      },
+      {
+        "DOI": "10.1146/annurev.neuro.22.1.261",
+        "author": "KJ Lee",
+        "doi-asserted-by": "publisher",
+        "first-page": "261",
+        "journal-title": "Annu. Rev. Neurosci.",
+        "key": "6669_CR43",
+        "unstructured": "Lee, K. J. & Jessell, T. M. The specification of dorsal cell fates in the vertebrate central nervous system. Annu. Rev. Neurosci. 22, 261\u2013294 (1999).",
+        "volume": "22",
+        "year": "1999"
+      },
+      {
+        "DOI": "10.1006/dbio.2000.9927",
+        "author": "M Yamada",
+        "doi-asserted-by": "publisher",
+        "first-page": "95",
+        "journal-title": "Dev. Biol.",
+        "key": "6669_CR44",
+        "unstructured": "Yamada, M., Revelli, J. P., Eichele, G., Barron, M. & Schwartz, R. J. Expression of chick Tbx-2, Tbx-3 and Tbx-5 genes during early heart development: evidence for BMP2 induction of Tbx2. Dev. Biol. 228, 95\u2013105 (2000).",
+        "volume": "228",
+        "year": "2000"
+      },
+      {
+        "DOI": "10.1242/dev.129.10.2459",
+        "author": "JR Timmer",
+        "doi-asserted-by": "publisher",
+        "first-page": "2459",
+        "journal-title": "Development",
+        "key": "6669_CR45",
+        "unstructured": "Timmer, J. R., Wang, C. & Niswander, L. BMP signaling patterns the dorsal and intermediate neural tube via regulation of homeobox and helix-loop-helix transcription factors. Development 129, 2459\u20132472 (2002).",
+        "volume": "129",
+        "year": "2002"
+      },
+      {
+        "DOI": "10.1038/s41598-018-27700-x",
+        "author": "TB Barton-Owen",
+        "doi-asserted-by": "publisher",
+        "journal-title": "Sci Rep.",
+        "key": "6669_CR46",
+        "unstructured": "Barton-Owen, T. B., Ferrier, D. E. & Somorjai, I. M. Pax3/7 duplicated and diverged independently in amphioxus, the basal chordate lineage. Sci Rep. 8, 9414 (2018).",
+        "volume": "8",
+        "year": "2018"
+      },
+      {
+        "DOI": "10.1186/s12861-017-0145-1",
+        "doi-asserted-by": "crossref",
+        "key": "6669_CR47",
+        "unstructured": "Koop, D. et al. Nodal and BMP expression during the transition to pentamery in the sea urchin Heliocidaris erythrogramma: insights into patterning the enigmatic echinoderm body plan. BMC Dev. Biol. 17, 4 (2017)."
+      },
+      {
+        "DOI": "10.1371/journal.pbio.0040291",
+        "author": "CJ Lowe",
+        "doi-asserted-by": "publisher",
+        "first-page": "e291",
+        "journal-title": "PLoS Biol.",
+        "key": "6669_CR48",
+        "unstructured": "Lowe, C. J. et al. Dorsoventral patterning in hemichordates: insights into early chordate evolution. PLoS Biol. 4, e291 (2006).",
+        "volume": "4",
+        "year": "2006"
+      },
+      {
+        "DOI": "10.1073/pnas.94.10.5162",
+        "doi-asserted-by": "crossref",
+        "key": "6669_CR49",
+        "unstructured": "Panganiban, G. et al. The origin and evolution of animal appendages. Proc. Natl Acad. Sci. USA 94, 5162\u20135166 (1997)."
+      },
+      {
+        "DOI": "10.1666/0094-8373(1998)024[0200:AMFTOO]2.3.CO;2",
+        "author": "FH Hotchkiss",
+        "doi-asserted-by": "publisher",
+        "first-page": "200",
+        "journal-title": "Paleobiology",
+        "key": "6669_CR50",
+        "unstructured": "Hotchkiss, F. H. A \u201crays-as-appendages\u201d model for the origin of pentamerism in echinoderms. Paleobiology 24, 200\u2013214 (1998).",
+        "volume": "24",
+        "year": "1998"
+      },
+      {
+        "DOI": "10.7554/eLife.43828",
+        "author": "OA Tarazona",
+        "doi-asserted-by": "publisher",
+        "first-page": "e43828",
+        "journal-title": "eLife",
+        "key": "6669_CR51",
+        "unstructured": "Tarazona, O. A., Lopez, D. H., Slota, L. A. & Cohn, M. J. Evolution of limb development in cephalopod mollusks. eLife 8, e43828 (2019).",
+        "volume": "8",
+        "year": "2019"
+      },
+      {
+        "DOI": "10.1186/2041-9139-5-46",
+        "doi-asserted-by": "crossref",
+        "key": "6669_CR52",
+        "unstructured": "Lacalli, T. Echinoderm conundrums: Hox genes, heterochrony and an excess of mouths. EvoDevo 5, 46 (2014)."
+      },
+      {
+        "DOI": "10.1186/1741-7007-8-143",
+        "doi-asserted-by": "crossref",
+        "key": "6669_CR53",
+        "unstructured": "Yankura, K. A., Martik, M. L., Jennings, C. K. & Hinman, V. F. Uncoupling of complex regulatory patterning during evolution of larval development in echinoderms. BMC Biol. 8, 143 (2010)."
+      },
+      {
+        "DOI": "10.1186/s13227-020-0148-z",
+        "doi-asserted-by": "crossref",
+        "key": "6669_CR54",
+        "unstructured": "G\u0105siorowski, L. & Hejnol, A. Hox gene expression during development of the phoronid Phoronopsis harmeri. EvoDevo 11, 2 (2020)."
+      },
+      {
+        "DOI": "10.1146/annurev.cellbio.18.020402.140619",
+        "author": "JR True",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "journal-title": "Annu. Rev. Cell Dev. Biol.",
+        "key": "6669_CR55",
+        "unstructured": "True, J. R. & Carroll, S. B. Gene co-option in physiological and morphological evolution. Annu. Rev. Cell Dev. Biol. 18, 53\u201380 (2002).",
+        "volume": "18",
+        "year": "2002"
+      },
+      {
+        "DOI": "10.1007/s004410051262",
+        "author": "J Z\u00e1k\u00e1ny",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "journal-title": "Cell Tissue Res.",
+        "key": "6669_CR56",
+        "unstructured": "Z\u00e1k\u00e1ny, J. & Duboule, D. Hox genes in digit development and evolution. Cell Tissue Res. 296, 19\u201325 (1999).",
+        "volume": "296",
+        "year": "1999"
+      },
+      {
+        "DOI": "10.1098/rspb.2013.1197",
+        "author": "AB Smith",
+        "doi-asserted-by": "publisher",
+        "first-page": "20131197",
+        "journal-title": "Proc. R. Soc. B",
+        "key": "6669_CR57",
+        "unstructured": "Smith, A. B. & Zamora, S. Cambrian spiral-plated echinoderms from Gondwana reveal the earliest pentaradial body plan. Proc. R. Soc. B 280, 20131197 (2013).",
+        "volume": "280",
+        "year": "2013"
+      },
+      {
+        "DOI": "10.1007/s00427-020-00665-6",
+        "author": "A Omori",
+        "doi-asserted-by": "publisher",
+        "first-page": "305",
+        "journal-title": "Dev. Genes Evol.",
+        "key": "6669_CR58",
+        "unstructured": "Omori, A., Shibata, T. F. & Akasaka, K. Gene expression analysis of three homeobox genes throughout early and late development of a feather star Anneissia japonica. Dev. Genes Evol. 230, 305\u2013314 (2020).",
+        "volume": "230",
+        "year": "2020"
+      },
+      {
+        "DOI": "10.1111/pala.12138",
+        "author": "S Zamora",
+        "doi-asserted-by": "publisher",
+        "first-page": "1105",
+        "journal-title": "Paleontology",
+        "key": "6669_CR59",
+        "unstructured": "Zamora, S. & Rahman, I. A. Deciphering the early evolution of echinoderms with Cambrian fossils. Paleontology 57, 1105\u20131119 (2014).",
+        "volume": "57",
+        "year": "2014"
+      },
+      {
+        "DOI": "10.7717/peerj.1860",
+        "author": "J Montanaro",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1860",
+        "journal-title": "PeerJ",
+        "key": "6669_CR60",
+        "unstructured": "Montanaro, J., Gruber, D. & Leisch, N. Improved ultrastructure of marine invertebrates using non-toxic buffers. PeerJ 4, e1860 (2016).",
+        "volume": "4",
+        "year": "2016"
+      },
+      {
+        "DOI": "10.1007/978-3-319-24574-4_28",
+        "doi-asserted-by": "crossref",
+        "key": "6669_CR61",
+        "unstructured": "Ronneberger, O., Fischer, P. & Brox, T. in Medical Image Computing and Computer-Assisted Intervention\u2014MICCAI 2015 (eds Navab, N. et al.) 234\u2013241 (Springer, 2015)."
+      },
+      {
+        "DOI": "10.1038/s41587-019-0217-9",
+        "author": "AM Wenger",
+        "doi-asserted-by": "publisher",
+        "first-page": "1155",
+        "journal-title": "Nat. Biotechnol.",
+        "key": "6669_CR62",
+        "unstructured": "Wenger, A. M. et al. Accurate circular consensus long-read sequencing improves variant detection and assembly of a human genome. Nat. Biotechnol. 37, 1155\u20131162 (2019).",
+        "volume": "37",
+        "year": "2019"
+      },
+      {
+        "DOI": "10.1038/s41592-020-01056-5",
+        "author": "H Cheng",
+        "doi-asserted-by": "publisher",
+        "first-page": "170",
+        "journal-title": "Nat. Methods",
+        "key": "6669_CR63",
+        "unstructured": "Cheng, H., Concepcion, G. T., Feng, X., Zhang, H. & Li, H. Haplotype-resolved de novo assembly using phased assembly graphs with hifiasm. Nat. Methods 18, 170\u2013175 (2021).",
+        "volume": "18",
+        "year": "2021"
+      },
+      {
+        "DOI": "10.1093/bioinformatics/btv351",
+        "author": "FA Sim\u00e3o",
+        "doi-asserted-by": "publisher",
+        "first-page": "3210",
+        "journal-title": "Bioinformatics",
+        "key": "6669_CR64",
+        "unstructured": "Sim\u00e3o, F. A., Waterhouse, R. M., Ioannidis, P., Kriventseva, E. V. & Zdobnov, E. M. BUSCO: assessing genome assembly and annotation completeness with single-copy orthologs. Bioinformatics 31, 3210\u20133212 (2015).",
+        "volume": "31",
+        "year": "2015"
+      },
+      {
+        "DOI": "10.1371/journal.pone.0050685",
+        "author": "AJ Bellantuono",
+        "doi-asserted-by": "publisher",
+        "first-page": "e50685",
+        "journal-title": "PLoS ONE",
+        "key": "6669_CR65",
+        "unstructured": "Bellantuono, A. J., Granados-Cifuentes, C., Miller, D. J., Hoegh-Guldberg, O. & Rodriguez-Lanetty, M. Coral thermal tolerance: tuning gene expression to resist thermal stress. PLoS ONE 7, e50685 (2012).",
+        "volume": "7",
+        "year": "2012"
+      },
+      {
+        "DOI": "10.1016/bs.mcb.2016.01.006",
+        "author": "F Kruse",
+        "doi-asserted-by": "publisher",
+        "first-page": "299",
+        "journal-title": "Methods Cell. Biol.",
+        "key": "6669_CR66",
+        "unstructured": "Kruse, F., Junker, J. P., Van Oudenaarden, A. & Bakkers, J. Tomo-seq: a method to obtain genome-wide expression data with spatial resolution. Methods Cell. Biol. 135, 299\u2013307 (2016).",
+        "volume": "135",
+        "year": "2016"
+      },
+      {
+        "DOI": "10.1038/s41587-023-01815-7",
+        "doi-asserted-by": "publisher",
+        "key": "6669_CR67",
+        "unstructured": "Al\u2019Khafaji, A. M. et al. High-throughput RNA isoform sequencing using programmable cDNA concatenation. Nat. Biotechnol. https://doi.org/10.1038/s41587-023-01815-7 (2023)."
+      },
+      {
+        "key": "6669_CR68",
+        "unstructured": "Mattick, J. IsoSeq v.4.00. GitHub https://github.com/PacificBiosciences/IsoSeq (2023)."
+      },
+      {
+        "key": "6669_CR69",
+        "unstructured": "Tseng, E. cDNA cupcake v.25.2.0. GitHub https://github.com/Magdoll/cDNA_Cupcake/wiki (2022)."
+      },
+      {
+        "DOI": "10.1093/bioinformatics/bty191",
+        "author": "H Li",
+        "doi-asserted-by": "publisher",
+        "first-page": "3094",
+        "journal-title": "Bioinformatics",
+        "key": "6669_CR70",
+        "unstructured": "Li, H. Minimap2: pairwise alignment for nucleotide sequences. Bioinformatics 34, 3094\u20133100 (2018).",
+        "volume": "34",
+        "year": "2018"
+      },
+      {
+        "DOI": "10.1101/gr.222976.117",
+        "author": "M Tardaguila",
+        "doi-asserted-by": "publisher",
+        "first-page": "396",
+        "journal-title": "Genome Res.",
+        "key": "6669_CR71",
+        "unstructured": "Tardaguila, M. et al. SQANTI: extensive characterization of long-read transcript sequences for quality control in full-length transcriptome identification and quantification. Genome Res. 28, 396\u2013411 (2018).",
+        "volume": "28",
+        "year": "2018"
+      },
+      {
+        "DOI": "10.1093/molbev/msw054",
+        "author": "S Kumar",
+        "doi-asserted-by": "publisher",
+        "first-page": "1870",
+        "journal-title": "Mol. Biol. Evol.",
+        "key": "6669_CR72",
+        "unstructured": "Kumar, S., Stecher, G. & Tamura, K. MEGA7: Molecular Evolutionary Genetics Analysis version 7.0 for bigger datasets. Mol. Biol. Evol. 33, 1870\u20131874 (2016).",
+        "volume": "33",
+        "year": "2016"
+      },
+      {
+        "DOI": "10.1093/bioinformatics/17.8.754",
+        "author": "JP Huelsenbeck",
+        "doi-asserted-by": "publisher",
+        "first-page": "754",
+        "journal-title": "Bioinformatics",
+        "key": "6669_CR73",
+        "unstructured": "Huelsenbeck, J. P. & Ronquist, F. MRBAYES: Bayesian inference of phylogenetic trees. Bioinformatics 17, 754\u2013755 (2001).",
+        "volume": "17",
+        "year": "2001"
+      },
+      {
+        "DOI": "10.1007/BF02289162",
+        "author": "L Guttman",
+        "doi-asserted-by": "publisher",
+        "first-page": "149",
+        "journal-title": "Psychometrika",
+        "key": "6669_CR74",
+        "unstructured": "Guttman, L. Some necessary conditions for common-factor analysis. Psychometrika 19, 149\u2013161 (1954).",
+        "volume": "19",
+        "year": "1954"
+      },
+      {
+        "DOI": "10.1007/s00357-014-9161-z",
+        "author": "F Murtagh",
+        "doi-asserted-by": "publisher",
+        "first-page": "274",
+        "journal-title": "J. Classif.",
+        "key": "6669_CR75",
+        "unstructured": "Murtagh, F. & Legendre, P. Ward\u2019s hierarchical agglomerative clustering method: which algorithms implement Ward\u2019s criterion? J. Classif. 31, 274\u2013295 (2014).",
+        "volume": "31",
+        "year": "2014"
+      },
+      {
+        "DOI": "10.1016/0377-0427(87)90125-7",
+        "author": "PJ Rousseeuw",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "journal-title": "J. Comput. Appl. Math.",
+        "key": "6669_CR76",
+        "unstructured": "Rousseeuw, P. J. Silhouettes: a graphical aid to the interpretation and validation of cluster analysis. J. Comput. Appl. Math. 20, 53\u201365 (1987).",
+        "volume": "20",
+        "year": "1987"
+      },
+      {
+        "DOI": "10.1093/icb/icl045",
+        "author": "J Aronowicz",
+        "doi-asserted-by": "publisher",
+        "first-page": "890",
+        "journal-title": "Int. Comp. Biol.",
+        "key": "6669_CR77",
+        "unstructured": "Aronowicz, J. & Lowe, C. J. Hox gene expression in the hemichordate Saccoglossus kowalevskii and the evolution of deuterostome nervous systems. Int. Comp. Biol. 46, 890\u2013901 (2006).",
+        "volume": "46",
+        "year": "2006"
+      },
+      {
+        "DOI": "10.1016/j.ydbio.2010.04.022",
+        "author": "D Lemons",
+        "doi-asserted-by": "publisher",
+        "first-page": "358",
+        "journal-title": "Dev. Biol.",
+        "key": "6669_CR78",
+        "unstructured": "Lemons, D., Fritzenwanker, J. H., Gerhart, J., Lowe, C. J. & McGinnis, W. Co-option of an anteroposterior head axis patterning system for proximodistal patterning of appendages in early bilaterian evolution. Dev. Biol. 344, 358\u2013362 (2010).",
+        "volume": "344",
+        "year": "2010"
+      },
+      {
+        "DOI": "10.1002/dvg.22831",
+        "author": "N Satoh",
+        "doi-asserted-by": "publisher",
+        "first-page": "925",
+        "journal-title": "Genesis",
+        "key": "6669_CR79",
+        "unstructured": "Satoh, N. et al. On a possible evolutionary link of the stomochord of hemichordates to pharyngeal organs of chordates. Genesis 52, 925\u2013934 (2014).",
+        "volume": "52",
+        "year": "2014"
+      },
+      {
+        "DOI": "10.1073/pnas.1817496116",
+        "author": "JH Fritzenwanker",
+        "doi-asserted-by": "publisher",
+        "first-page": "8403",
+        "journal-title": "Proc. Natl Acad. Sci. USA",
+        "key": "6669_CR80",
+        "unstructured": "Fritzenwanker, J. H., Uhlinger, K. R., Gerhart, J., Silva, E. & Lowe, C. J. Untangling posterior growth and segmentation by analyzing mechanisms of axis elongation in hemichordates. Proc. Natl Acad. Sci. USA 116, 8403\u20138408 (2019).",
+        "volume": "116",
+        "year": "2019"
+      },
+      {
+        "DOI": "10.1038/s41598-017-07052-8",
+        "doi-asserted-by": "crossref",
+        "key": "6669_CR81",
+        "unstructured": "Kaul-Strehlow, S., Urata, M., Praher, D. & Wanninger, A. Neuronal patterning of the tubular collar cord is highly conserved among enteropneusts but dissimilar to the chordate neural tube. Sci. Rep. 7, 7003 (2017)."
+      },
+      {
+        "DOI": "10.1242/dev.165753",
+        "author": "HM Choi",
+        "doi-asserted-by": "publisher",
+        "first-page": "dev165753",
+        "journal-title": "Development",
+        "key": "6669_CR82",
+        "unstructured": "Choi, H. M. et al. Third-generation in situ hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust. Development 145, dev165753 (2018).",
+        "volume": "145",
+        "year": "2018"
+      },
+      {
+        "DOI": "10.1002/jez.b.23100",
+        "author": "E Kuehn",
+        "doi-asserted-by": "publisher",
+        "first-page": "225",
+        "journal-title": "J. Exp. Zool. B",
+        "key": "6669_CR83",
+        "unstructured": "Kuehn, E. et al. Segment number threshold determines juvenile onset of germline cluster expansion in Platynereis dumerilii. J. Exp. Zool. B 338, 225\u2013240 (2022).",
+        "volume": "338",
+        "year": "2022"
+      },
+      {
+        "DOI": "10.1038/nmeth.2089",
+        "author": "CA Schneider",
+        "doi-asserted-by": "publisher",
+        "first-page": "671",
+        "journal-title": "Nat. Methods",
+        "key": "6669_CR84",
+        "unstructured": "Schneider, C. A., Rasband, W. S. & Eliceiri, K. W. NIH Image to ImageJ: 25 years of image analysis. Nat. Methods 9, 671\u2013675 (2012).",
+        "volume": "9",
+        "year": "2012"
+      },
+      {
+        "DOI": "10.1016/S0091-679X(04)74008-X",
+        "author": "CJ Lowe",
+        "doi-asserted-by": "publisher",
+        "first-page": "171",
+        "journal-title": "Methods Cell. Biol.",
+        "key": "6669_CR85",
+        "unstructured": "Lowe, C. J., Tagawa, K., Humphreys, T., Kirschner, M. & Gerhart, J. Hemichordate embryos: procurement, culture and basic methods. Methods Cell. Biol. 74, 171\u2013194 (2004).",
+        "volume": "74",
+        "year": "2004"
+      },
+      {
+        "DOI": "10.1002/cne.25012",
+        "author": "L Formery",
+        "doi-asserted-by": "publisher",
+        "first-page": "1135",
+        "journal-title": "J. Comp. Neurol.",
+        "key": "6669_CR86",
+        "unstructured": "Formery, L. et al. Neural anatomy of echinoid early juveniles and comparison of nervous system organization in echinoderms. J. Comp. Neurol. 529, 1135\u20131156 (2021).",
+        "volume": "529",
+        "year": "2021"
+      },
+      {
+        "DOI": "10.1186/s13227-021-00174-1",
+        "doi-asserted-by": "crossref",
+        "key": "6669_CR87",
+        "unstructured": "Thompson, J. R., Paganos, P., Benvenuto, G., Arnone, M. I. & Oliveri, P. Post-metamorphic skeletal growth in the sea urchin Paracentrotus lividus and implications for body plan evolution. EvoDevo 12, 3 (2021)."
+      }
+    ],
+    "reference-count": 87,
+    "references-count": 87,
+    "relation": {
+      "has-preprint": [
+        {
+          "asserted-by": "object",
+          "id": "10.1101/2023.02.05.527185",
+          "id-type": "doi"
+        }
+      ]
+    },
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41586-023-06669-2"
+      }
+    },
+    "score": 0.0,
+    "short-container-title": [
+      "Nature"
+    ],
+    "source": "Crossref",
+    "title": [
+      "Molecular evidence of anteroposterior patterning in adult echinoderms"
+    ],
+    "type": "journal-article",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "volume": "623"
+  },
+  "dim_json": null,
+  "doi": "10.1038/s41586-023-06669-2",
+  "funders": [],
+  "id": 21,
+  "open_access": "green",
+  "openalex_json": {
+    "abstract_inverted_index": null,
+    "abstract_inverted_index_v3": null,
+    "apc_list": {
+      "currency": "EUR",
+      "value": 9750,
+      "value_usd": 11690
+    },
+    "apc_paid": null,
+    "authorships": [
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I4210149261",
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA"
+          }
+        ],
+        "author": {
+          "display_name": "Laurent Formery",
+          "id": "https://openalex.org/A5069263801",
+          "orcid": "https://orcid.org/0000-0003-0230-4051"
+        },
+        "author_position": "first",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Pacific University",
+            "id": "https://openalex.org/I4210149261",
+            "lineage": [
+              "https://openalex.org/I4210149261"
+            ],
+            "ror": "https://ror.org/059z5w858",
+            "type": "education"
+          },
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": true,
+        "raw_affiliation_strings": [
+          "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA"
+        ],
+        "raw_author_name": "L. Formery"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I68554272"
+            ],
+            "raw_affiliation_string": "Pacific Biosciences, Menlo Park, CA, USA"
+          }
+        ],
+        "author": {
+          "display_name": "Paul Peluso",
+          "id": "https://openalex.org/A5009938495",
+          "orcid": "https://orcid.org/0000-0002-9723-5185"
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Pacific Biosciences (United States)",
+            "id": "https://openalex.org/I68554272",
+            "lineage": [
+              "https://openalex.org/I68554272"
+            ],
+            "ror": "https://ror.org/00fcszb13",
+            "type": "company"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Pacific Biosciences, Menlo Park, CA, USA"
+        ],
+        "raw_author_name": "P. Peluso"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I4210149261",
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA"
+          }
+        ],
+        "author": {
+          "display_name": "I. Kohnle",
+          "id": "https://openalex.org/A5052408668",
+          "orcid": null
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Pacific University",
+            "id": "https://openalex.org/I4210149261",
+            "lineage": [
+              "https://openalex.org/I4210149261"
+            ],
+            "ror": "https://ror.org/059z5w858",
+            "type": "education"
+          },
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA"
+        ],
+        "raw_author_name": "I. Kohnle"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I4210149261",
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA"
+          }
+        ],
+        "author": {
+          "display_name": "J. Malnick",
+          "id": "https://openalex.org/A5063494836",
+          "orcid": null
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Pacific University",
+            "id": "https://openalex.org/I4210149261",
+            "lineage": [
+              "https://openalex.org/I4210149261"
+            ],
+            "ror": "https://ror.org/059z5w858",
+            "type": "education"
+          },
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA"
+        ],
+        "raw_author_name": "J. Malnick"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I43439940"
+            ],
+            "raw_affiliation_string": "School of Biological Sciences, University of Southampton, Southampton, UK"
+          }
+        ],
+        "author": {
+          "display_name": "Jeffrey R. Thompson",
+          "id": "https://openalex.org/A5020900577",
+          "orcid": "https://orcid.org/0000-0003-3485-172X"
+        },
+        "author_position": "middle",
+        "countries": [
+          "GB"
+        ],
+        "institutions": [
+          {
+            "country_code": "GB",
+            "display_name": "University of Southampton",
+            "id": "https://openalex.org/I43439940",
+            "lineage": [
+              "https://openalex.org/I43439940"
+            ],
+            "ror": "https://ror.org/01ryk1543",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "School of Biological Sciences, University of Southampton, Southampton, UK"
+        ],
+        "raw_author_name": "J. R. Thompson"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I2800966019"
+            ],
+            "raw_affiliation_string": "Columbia Equine Hospital, Gresham, OR, USA"
+          }
+        ],
+        "author": {
+          "display_name": "M. Pitel",
+          "id": "https://openalex.org/A5000669742",
+          "orcid": "https://orcid.org/0000-0002-3321-2136"
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Legacy Mount Hood Medical Center",
+            "id": "https://openalex.org/I2800966019",
+            "lineage": [
+              "https://openalex.org/I163879017",
+              "https://openalex.org/I2800966019"
+            ],
+            "ror": "https://ror.org/011d4mb30",
+            "type": "healthcare"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Columbia Equine Hospital, Gresham, OR, USA"
+        ],
+        "raw_author_name": "M. Pitel"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I4210149261",
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA"
+          }
+        ],
+        "author": {
+          "display_name": "Kevin R. Uhlinger",
+          "id": "https://openalex.org/A5064543073",
+          "orcid": null
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Pacific University",
+            "id": "https://openalex.org/I4210149261",
+            "lineage": [
+              "https://openalex.org/I4210149261"
+            ],
+            "ror": "https://ror.org/059z5w858",
+            "type": "education"
+          },
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA"
+        ],
+        "raw_author_name": "K. R. Uhlinger"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I95457486"
+            ],
+            "raw_affiliation_string": "Department of Molecular and Cell Biology, University of California Berkeley, Berkeley, CA, USA"
+          }
+        ],
+        "author": {
+          "display_name": "Daniel S. Rokhsar",
+          "id": "https://openalex.org/A5068564092",
+          "orcid": "https://orcid.org/0000-0002-8704-2224"
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "University of California, Berkeley",
+            "id": "https://openalex.org/I95457486",
+            "lineage": [
+              "https://openalex.org/I95457486"
+            ],
+            "ror": "https://ror.org/01an7q238",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Department of Molecular and Cell Biology, University of California Berkeley, Berkeley, CA, USA"
+        ],
+        "raw_author_name": "D. S. Rokhsar"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I68554272"
+            ],
+            "raw_affiliation_string": "Pacific Biosciences, Menlo Park, CA, USA"
+          }
+        ],
+        "author": {
+          "display_name": "David R. Rank",
+          "id": "https://openalex.org/A5060621653",
+          "orcid": "https://orcid.org/0000-0001-9213-6965"
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Pacific Biosciences (United States)",
+            "id": "https://openalex.org/I68554272",
+            "lineage": [
+              "https://openalex.org/I68554272"
+            ],
+            "ror": "https://ror.org/00fcszb13",
+            "type": "company"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Pacific Biosciences, Menlo Park, CA, USA"
+        ],
+        "raw_author_name": "D. R. Rank"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I4210121800",
+              "https://openalex.org/I4210100286"
+            ],
+            "raw_affiliation_string": "Chan Zuckerberg BioHub, San Francisco, CA, USA"
+          }
+        ],
+        "author": {
+          "display_name": "Christopher J. Lowe",
+          "id": "https://openalex.org/A5026254538",
+          "orcid": "https://orcid.org/0000-0002-7789-8643"
+        },
+        "author_position": "last",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Chan Zuckerberg Initiative (United States)",
+            "id": "https://openalex.org/I4210121800",
+            "lineage": [
+              "https://openalex.org/I4210121800"
+            ],
+            "ror": "https://ror.org/02qenvm24",
+            "type": "funder"
+          },
+          {
+            "country_code": "US",
+            "display_name": "Chan Zuckerberg Biohub San Francisco",
+            "id": "https://openalex.org/I4210100286",
+            "lineage": [
+              "https://openalex.org/I180670191",
+              "https://openalex.org/I4210100286",
+              "https://openalex.org/I4210121800",
+              "https://openalex.org/I95457486",
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00knt4f32",
+            "type": "facility"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Chan Zuckerberg BioHub, San Francisco, CA, USA"
+        ],
+        "raw_author_name": "C. J. Lowe"
+      }
+    ],
+    "best_oa_location": {
+      "is_accepted": true,
+      "is_oa": true,
+      "is_published": false,
+      "landing_page_url": "https://eprints.soton.ac.uk/484572/1/Formery_et_al_Author_Accepted_Merged.pdf",
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "pdf_url": "https://eprints.soton.ac.uk/484572/1/Formery_et_al_Author_Accepted_Merged.pdf",
+      "source": {
+        "display_name": "ePrints Soton (University of Southampton)",
+        "host_organization": "https://openalex.org/I43439940",
+        "host_organization_lineage": [
+          "https://openalex.org/I43439940"
+        ],
+        "host_organization_lineage_names": [
+          "University of Southampton"
+        ],
+        "host_organization_name": "University of Southampton",
+        "id": "https://openalex.org/S4306401019",
+        "is_core": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_oa": true,
+        "issn": null,
+        "issn_l": null,
+        "type": "repository"
+      },
+      "version": "acceptedVersion"
+    },
+    "biblio": {
+      "first_page": "555",
+      "issue": "7987",
+      "last_page": "561",
+      "volume": "623"
+    },
+    "citation_normalized_percentile": {
+      "is_in_top_10_percent": true,
+      "is_in_top_1_percent": true,
+      "value": 0.999806
+    },
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4388126994",
+    "cited_by_count": 42,
+    "cited_by_percentile_year": {
+      "max": 99,
+      "min": 98
+    },
+    "concepts": [
+      {
+        "display_name": "Echinoderm",
+        "id": "https://openalex.org/C2777929075",
+        "level": 2,
+        "score": 0.8461211,
+        "wikidata": "https://www.wikidata.org/wiki/Q44631"
+      },
+      {
+        "display_name": "Body plan",
+        "id": "https://openalex.org/C148737382",
+        "level": 3,
+        "score": 0.8297034,
+        "wikidata": "https://www.wikidata.org/wiki/Q32831"
+      },
+      {
+        "display_name": "Biology",
+        "id": "https://openalex.org/C86803240",
+        "level": 0,
+        "score": 0.76650095,
+        "wikidata": "https://www.wikidata.org/wiki/Q420"
+      },
+      {
+        "display_name": "Ectoderm",
+        "id": "https://openalex.org/C2779329299",
+        "level": 4,
+        "score": 0.749621,
+        "wikidata": "https://www.wikidata.org/wiki/Q272474"
+      },
+      {
+        "display_name": "Bilateria",
+        "id": "https://openalex.org/C2777738586",
+        "level": 4,
+        "score": 0.5952458,
+        "wikidata": "https://www.wikidata.org/wiki/Q5173"
+      },
+      {
+        "display_name": "Evolutionary biology",
+        "id": "https://openalex.org/C78458016",
+        "level": 1,
+        "score": 0.58896834,
+        "wikidata": "https://www.wikidata.org/wiki/Q840400"
+      },
+      {
+        "display_name": "Anatomy",
+        "id": "https://openalex.org/C105702510",
+        "level": 1,
+        "score": 0.5062727,
+        "wikidata": "https://www.wikidata.org/wiki/Q514"
+      },
+      {
+        "display_name": "Chordate",
+        "id": "https://openalex.org/C2778712684",
+        "level": 4,
+        "score": 0.43575472,
+        "wikidata": "https://www.wikidata.org/wiki/Q10915"
+      },
+      {
+        "display_name": "Evolutionary developmental biology",
+        "id": "https://openalex.org/C168601633",
+        "level": 2,
+        "score": 0.43441185,
+        "wikidata": "https://www.wikidata.org/wiki/Q1044484"
+      },
+      {
+        "display_name": "Starfish",
+        "id": "https://openalex.org/C2778175403",
+        "level": 2,
+        "score": 0.43202737,
+        "wikidata": "https://www.wikidata.org/wiki/Q25349"
+      },
+      {
+        "display_name": "Paleontology",
+        "id": "https://openalex.org/C151730666",
+        "level": 1,
+        "score": 0.297989,
+        "wikidata": "https://www.wikidata.org/wiki/Q7205"
+      },
+      {
+        "display_name": "Vertebrate",
+        "id": "https://openalex.org/C2778961482",
+        "level": 3,
+        "score": 0.28661245,
+        "wikidata": "https://www.wikidata.org/wiki/Q25241"
+      },
+      {
+        "display_name": "Phylogenetics",
+        "id": "https://openalex.org/C90132467",
+        "level": 3,
+        "score": 0.2250593,
+        "wikidata": "https://www.wikidata.org/wiki/Q171184"
+      },
+      {
+        "display_name": "Genetics",
+        "id": "https://openalex.org/C54355233",
+        "level": 1,
+        "score": 0.1655379,
+        "wikidata": "https://www.wikidata.org/wiki/Q7162"
+      },
+      {
+        "display_name": "Gene",
+        "id": "https://openalex.org/C104317684",
+        "level": 2,
+        "score": 0.161766,
+        "wikidata": "https://www.wikidata.org/wiki/Q7187"
+      },
+      {
+        "display_name": "Embryogenesis",
+        "id": "https://openalex.org/C87073359",
+        "level": 3,
+        "score": 0.11346161,
+        "wikidata": "https://www.wikidata.org/wiki/Q33196"
+      }
+    ],
+    "corresponding_author_ids": [
+      "https://openalex.org/A5069263801"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I4210149261",
+      "https://openalex.org/I97018004"
+    ],
+    "countries_distinct_count": 2,
+    "counts_by_year": [
+      {
+        "cited_by_count": 6,
+        "year": 2025
+      },
+      {
+        "cited_by_count": 30,
+        "year": 2024
+      },
+      {
+        "cited_by_count": 5,
+        "year": 2023
+      }
+    ],
+    "created_date": "2023-11-02",
+    "datasets": [],
+    "display_name": "Molecular evidence of anteroposterior patterning in adult echinoderms",
+    "doi": "https://doi.org/10.1038/s41586-023-06669-2",
+    "fulltext_origin": "pdf",
+    "fwci": 16.508,
+    "grants": [],
+    "has_fulltext": true,
+    "id": "https://openalex.org/W4388126994",
+    "ids": {
+      "doi": "https://doi.org/10.1038/s41586-023-06669-2",
+      "openalex": "https://openalex.org/W4388126994",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/37914929"
+    },
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "institution_assertions": [],
+    "institutions_distinct_count": 8,
+    "is_paratext": false,
+    "is_retracted": false,
+    "keywords": [
+      {
+        "display_name": "Echinoderm",
+        "id": "https://openalex.org/keywords/echinoderm",
+        "score": 0.8461211
+      },
+      {
+        "display_name": "Body plan",
+        "id": "https://openalex.org/keywords/body-plan",
+        "score": 0.8297034
+      },
+      {
+        "display_name": "Bilateria",
+        "id": "https://openalex.org/keywords/bilateria",
+        "score": 0.5952458
+      },
+      {
+        "display_name": "Chordate",
+        "id": "https://openalex.org/keywords/chordate",
+        "score": 0.43575472
+      },
+      {
+        "display_name": "Evolutionary developmental biology",
+        "id": "https://openalex.org/keywords/evolutionary-developmental-biology",
+        "score": 0.43441185
+      }
+    ],
+    "language": "en",
+    "locations": [
+      {
+        "is_accepted": false,
+        "is_oa": false,
+        "is_published": false,
+        "landing_page_url": "https://doi.org/10.1038/s41586-023-06669-2",
+        "license": null,
+        "license_id": null,
+        "pdf_url": null,
+        "source": {
+          "display_name": "Nature",
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "host_organization_name": "Nature Portfolio",
+          "id": "https://openalex.org/S137773608",
+          "is_core": true,
+          "is_in_doaj": false,
+          "is_indexed_in_scopus": true,
+          "is_oa": false,
+          "issn": [
+            "0028-0836",
+            "1476-4687"
+          ],
+          "issn_l": "0028-0836",
+          "type": "journal"
+        },
+        "version": null
+      },
+      {
+        "is_accepted": true,
+        "is_oa": true,
+        "is_published": false,
+        "landing_page_url": "https://eprints.soton.ac.uk/484572/1/Formery_et_al_Author_Accepted_Merged.pdf",
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "pdf_url": "https://eprints.soton.ac.uk/484572/1/Formery_et_al_Author_Accepted_Merged.pdf",
+        "source": {
+          "display_name": "ePrints Soton (University of Southampton)",
+          "host_organization": "https://openalex.org/I43439940",
+          "host_organization_lineage": [
+            "https://openalex.org/I43439940"
+          ],
+          "host_organization_lineage_names": [
+            "University of Southampton"
+          ],
+          "host_organization_name": "University of Southampton",
+          "id": "https://openalex.org/S4306401019",
+          "is_core": false,
+          "is_in_doaj": false,
+          "is_indexed_in_scopus": false,
+          "is_oa": true,
+          "issn": null,
+          "issn_l": null,
+          "type": "repository"
+        },
+        "version": "acceptedVersion"
+      },
+      {
+        "is_accepted": false,
+        "is_oa": false,
+        "is_published": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37914929",
+        "license": null,
+        "license_id": null,
+        "pdf_url": null,
+        "source": {
+          "display_name": "PubMed",
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [
+            "National Institutes of Health"
+          ],
+          "host_organization_name": "National Institutes of Health",
+          "id": "https://openalex.org/S4306525036",
+          "is_core": false,
+          "is_in_doaj": false,
+          "is_indexed_in_scopus": false,
+          "is_oa": false,
+          "issn": null,
+          "issn_l": null,
+          "type": "repository"
+        },
+        "version": null
+      }
+    ],
+    "locations_count": 3,
+    "mesh": [
+      {
+        "descriptor_name": "Body Patterning",
+        "descriptor_ui": "D019521",
+        "is_major_topic": true,
+        "qualifier_name": null,
+        "qualifier_ui": ""
+      },
+      {
+        "descriptor_name": "Echinodermata",
+        "descriptor_ui": "D004447",
+        "is_major_topic": true,
+        "qualifier_name": null,
+        "qualifier_ui": ""
+      },
+      {
+        "descriptor_name": "Animals",
+        "descriptor_ui": "D000818",
+        "is_major_topic": false,
+        "qualifier_name": null,
+        "qualifier_ui": ""
+      },
+      {
+        "descriptor_name": "Biological Evolution",
+        "descriptor_ui": "D005075",
+        "is_major_topic": false,
+        "qualifier_name": null,
+        "qualifier_ui": ""
+      },
+      {
+        "descriptor_name": "Body Patterning",
+        "descriptor_ui": "D019521",
+        "is_major_topic": false,
+        "qualifier_name": "genetics",
+        "qualifier_ui": "Q000235"
+      },
+      {
+        "descriptor_name": "Echinodermata",
+        "descriptor_ui": "D004447",
+        "is_major_topic": false,
+        "qualifier_name": "embryology",
+        "qualifier_ui": "Q000196"
+      },
+      {
+        "descriptor_name": "Echinodermata",
+        "descriptor_ui": "D004447",
+        "is_major_topic": false,
+        "qualifier_name": "genetics",
+        "qualifier_ui": "Q000235"
+      },
+      {
+        "descriptor_name": "Gene Expression Regulation, Developmental",
+        "descriptor_ui": "D018507",
+        "is_major_topic": false,
+        "qualifier_name": null,
+        "qualifier_ui": ""
+      },
+      {
+        "descriptor_name": "Transcription Factors",
+        "descriptor_ui": "D014157",
+        "is_major_topic": false,
+        "qualifier_name": "metabolism",
+        "qualifier_ui": "Q000378"
+      },
+      {
+        "descriptor_name": "Transcription Factors",
+        "descriptor_ui": "D014157",
+        "is_major_topic": false,
+        "qualifier_name": null,
+        "qualifier_ui": ""
+      }
+    ],
+    "open_access": {
+      "any_repository_has_fulltext": true,
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://eprints.soton.ac.uk/484572/1/Formery_et_al_Author_Accepted_Merged.pdf"
+    },
+    "primary_location": {
+      "is_accepted": false,
+      "is_oa": false,
+      "is_published": false,
+      "landing_page_url": "https://doi.org/10.1038/s41586-023-06669-2",
+      "license": null,
+      "license_id": null,
+      "pdf_url": null,
+      "source": {
+        "display_name": "Nature",
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "host_organization_name": "Nature Portfolio",
+        "id": "https://openalex.org/S137773608",
+        "is_core": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_oa": false,
+        "issn": [
+          "0028-0836",
+          "1476-4687"
+        ],
+        "issn_l": "0028-0836",
+        "type": "journal"
+      },
+      "version": null
+    },
+    "primary_topic": {
+      "display_name": "Echinoderm biology and ecology",
+      "domain": {
+        "display_name": "Life Sciences",
+        "id": "https://openalex.org/domains/1"
+      },
+      "field": {
+        "display_name": "Agricultural and Biological Sciences",
+        "id": "https://openalex.org/fields/11"
+      },
+      "id": "https://openalex.org/T12841",
+      "score": 0.9997,
+      "subfield": {
+        "display_name": "Aquatic Science",
+        "id": "https://openalex.org/subfields/1104"
+      }
+    },
+    "publication_date": "2023-11-01",
+    "publication_year": 2023,
+    "referenced_works": [
+      "https://openalex.org/W1541821200",
+      "https://openalex.org/W1625411518",
+      "https://openalex.org/W1670055835",
+      "https://openalex.org/W180274172",
+      "https://openalex.org/W1901129140",
+      "https://openalex.org/W1902497723",
+      "https://openalex.org/W1933647566",
+      "https://openalex.org/W1935552863",
+      "https://openalex.org/W1963828513",
+      "https://openalex.org/W1977300801",
+      "https://openalex.org/W1987971958",
+      "https://openalex.org/W1991626630",
+      "https://openalex.org/W1991632506",
+      "https://openalex.org/W1991825130",
+      "https://openalex.org/W1996306915",
+      "https://openalex.org/W1998342476",
+      "https://openalex.org/W2000432226",
+      "https://openalex.org/W2006446529",
+      "https://openalex.org/W2011175428",
+      "https://openalex.org/W2014926287",
+      "https://openalex.org/W2015196002",
+      "https://openalex.org/W2027272395",
+      "https://openalex.org/W2031124097",
+      "https://openalex.org/W2037958581",
+      "https://openalex.org/W2038945722",
+      "https://openalex.org/W2049017883",
+      "https://openalex.org/W2060418346",
+      "https://openalex.org/W2067618272",
+      "https://openalex.org/W2074352726",
+      "https://openalex.org/W2082431671",
+      "https://openalex.org/W2095563298",
+      "https://openalex.org/W2097369455",
+      "https://openalex.org/W2099224454",
+      "https://openalex.org/W2099540110",
+      "https://openalex.org/W2102631576",
+      "https://openalex.org/W2105808252",
+      "https://openalex.org/W2110146147",
+      "https://openalex.org/W2118325789",
+      "https://openalex.org/W2119063930",
+      "https://openalex.org/W2119447434",
+      "https://openalex.org/W2122878396",
+      "https://openalex.org/W2124281687",
+      "https://openalex.org/W2128650008",
+      "https://openalex.org/W2129829180",
+      "https://openalex.org/W2144657690",
+      "https://openalex.org/W2153646569",
+      "https://openalex.org/W2155534659",
+      "https://openalex.org/W2155628349",
+      "https://openalex.org/W2156057479",
+      "https://openalex.org/W2161444534",
+      "https://openalex.org/W2189377819",
+      "https://openalex.org/W2202005058",
+      "https://openalex.org/W2285684835",
+      "https://openalex.org/W2311203695",
+      "https://openalex.org/W2329988967",
+      "https://openalex.org/W2503542347",
+      "https://openalex.org/W2523308756",
+      "https://openalex.org/W2560836588",
+      "https://openalex.org/W2587942958",
+      "https://openalex.org/W2605894063",
+      "https://openalex.org/W2750880469",
+      "https://openalex.org/W2784333968",
+      "https://openalex.org/W2789843538",
+      "https://openalex.org/W2807838272",
+      "https://openalex.org/W2899580583",
+      "https://openalex.org/W2939579932",
+      "https://openalex.org/W2949193645",
+      "https://openalex.org/W2949812542",
+      "https://openalex.org/W2952666313",
+      "https://openalex.org/W2952675130",
+      "https://openalex.org/W2968499116",
+      "https://openalex.org/W3012757775",
+      "https://openalex.org/W3041924726",
+      "https://openalex.org/W3042507059",
+      "https://openalex.org/W3081359367",
+      "https://openalex.org/W3128198169",
+      "https://openalex.org/W3139410739",
+      "https://openalex.org/W3214389270",
+      "https://openalex.org/W4293008925",
+      "https://openalex.org/W4317952817",
+      "https://openalex.org/W4318671716",
+      "https://openalex.org/W4379878423"
+    ],
+    "referenced_works_count": 82,
+    "related_works": [
+      "https://openalex.org/W4318671716",
+      "https://openalex.org/W3041924726",
+      "https://openalex.org/W2782738874",
+      "https://openalex.org/W2586555895",
+      "https://openalex.org/W2150846166",
+      "https://openalex.org/W2105808252",
+      "https://openalex.org/W2096434491",
+      "https://openalex.org/W2005506385",
+      "https://openalex.org/W2001131257",
+      "https://openalex.org/W1935552863"
+    ],
+    "sustainable_development_goals": [
+      {
+        "display_name": "Life below water",
+        "id": "https://metadata.un.org/sdg/14",
+        "score": 0.89
+      }
+    ],
+    "title": "Molecular evidence of anteroposterior patterning in adult echinoderms",
+    "topics": [
+      {
+        "display_name": "Echinoderm biology and ecology",
+        "domain": {
+          "display_name": "Life Sciences",
+          "id": "https://openalex.org/domains/1"
+        },
+        "field": {
+          "display_name": "Agricultural and Biological Sciences",
+          "id": "https://openalex.org/fields/11"
+        },
+        "id": "https://openalex.org/T12841",
+        "score": 0.9997,
+        "subfield": {
+          "display_name": "Aquatic Science",
+          "id": "https://openalex.org/subfields/1104"
+        }
+      },
+      {
+        "display_name": "Marine and coastal plant biology",
+        "domain": {
+          "display_name": "Physical Sciences",
+          "id": "https://openalex.org/domains/3"
+        },
+        "field": {
+          "display_name": "Earth and Planetary Sciences",
+          "id": "https://openalex.org/fields/19"
+        },
+        "id": "https://openalex.org/T10643",
+        "score": 0.9917,
+        "subfield": {
+          "display_name": "Oceanography",
+          "id": "https://openalex.org/subfields/1910"
+        }
+      },
+      {
+        "display_name": "Marine Biology and Environmental Chemistry",
+        "domain": {
+          "display_name": "Physical Sciences",
+          "id": "https://openalex.org/domains/3"
+        },
+        "field": {
+          "display_name": "Engineering",
+          "id": "https://openalex.org/fields/22"
+        },
+        "id": "https://openalex.org/T12071",
+        "score": 0.9912,
+        "subfield": {
+          "display_name": "Ocean Engineering",
+          "id": "https://openalex.org/subfields/2212"
+        }
+      }
+    ],
+    "type": "article",
+    "type_crossref": "journal-article",
+    "updated_date": "2025-06-17T21:18:59.079732",
+    "versions": []
+  },
+  "pub_year": 2023,
+  "pubmed_json": {
+    "MedlineCitation": {
+      "@IndexingMethod": "Curated",
+      "@Owner": "NLM",
+      "@Status": "MEDLINE",
+      "Article": {
+        "@PubModel": "Print-Electronic",
+        "Abstract": {
+          "AbstractText": {
+            "#text": "The origin of the pentaradial body plan of echinoderms from a bilateral ancestor is one of the most enduring zoological puzzles. Because echinoderms are defined by morphological novelty, even the most basic axial comparisons with their bilaterian relatives are problematic. To revisit this classical question, we used conserved anteroposterior axial molecular markers to determine whether the highly derived adult body plan of echinoderms masks underlying patterning similarities with other deuterostomes. We investigated the expression of a suite of conserved transcription factors with well-established roles in the establishment of anteroposterior polarity in deuterostomes and other bilaterians using RNA tomography and in situ hybridization in the sea star Patiria miniata. The relative spatial expression of these markers in P. miniata ambulacral ectoderm shows similarity with other deuterostomes, with the midline of each ray representing the most anterior territory and the most lateral parts exhibiting a more posterior identity. Strikingly, there is no ectodermal territory in the sea star that expresses the characteristic bilaterian trunk genetic patterning programme. This finding suggests that from the perspective of ectoderm patterning, echinoderms are mostly head-like animals and provides a developmental rationale for the re-evaluation of the events that led to the evolution of the derived adult body plan of echinoderms.",
+            "sup": [
+              "1,2",
+              "3-5",
+              "6-8"
+            ]
+          },
+          "CopyrightInformation": "\u00a9 2023. The Author(s), under exclusive licence to Springer Nature Limited."
+        },
+        "ArticleDate": {
+          "@DateType": "Electronic",
+          "Day": "01",
+          "Month": "11",
+          "Year": "2023"
+        },
+        "ArticleTitle": "Molecular evidence of anteroposterior patterning in adult echinoderms.",
+        "AuthorList": {
+          "@CompleteYN": "Y",
+          "Author": [
+            {
+              "@ValidYN": "Y",
+              "AffiliationInfo": [
+                {
+                  "Affiliation": "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA. laurent.formery@gmail.com."
+                },
+                {
+                  "Affiliation": "Department of Molecular and Cell Biology, University of California Berkeley, Berkeley, CA, USA. laurent.formery@gmail.com."
+                }
+              ],
+              "ForeName": "L",
+              "Identifier": {
+                "#text": "0000-0003-0230-4051",
+                "@Source": "ORCID"
+              },
+              "Initials": "L",
+              "LastName": "Formery"
+            },
+            {
+              "@ValidYN": "Y",
+              "AffiliationInfo": {
+                "Affiliation": "Pacific Biosciences, Menlo Park, CA, USA."
+              },
+              "ForeName": "P",
+              "Initials": "P",
+              "LastName": "Peluso"
+            },
+            {
+              "@ValidYN": "Y",
+              "AffiliationInfo": {
+                "Affiliation": "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA."
+              },
+              "ForeName": "I",
+              "Initials": "I",
+              "LastName": "Kohnle"
+            },
+            {
+              "@ValidYN": "Y",
+              "AffiliationInfo": {
+                "Affiliation": "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA."
+              },
+              "ForeName": "J",
+              "Initials": "J",
+              "LastName": "Malnick"
+            },
+            {
+              "@ValidYN": "Y",
+              "AffiliationInfo": [
+                {
+                  "Affiliation": "School of Biological Sciences, University of Southampton, Southampton, UK."
+                },
+                {
+                  "Affiliation": "School of Ocean and Earth Science, University of Southampton, Southampton, UK."
+                }
+              ],
+              "ForeName": "J R",
+              "Initials": "JR",
+              "LastName": "Thompson"
+            },
+            {
+              "@ValidYN": "Y",
+              "AffiliationInfo": {
+                "Affiliation": "Columbia Equine Hospital, Gresham, OR, USA."
+              },
+              "ForeName": "M",
+              "Initials": "M",
+              "LastName": "Pitel"
+            },
+            {
+              "@ValidYN": "Y",
+              "AffiliationInfo": {
+                "Affiliation": "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA."
+              },
+              "ForeName": "K R",
+              "Initials": "KR",
+              "LastName": "Uhlinger"
+            },
+            {
+              "@EqualContrib": "Y",
+              "@ValidYN": "Y",
+              "AffiliationInfo": [
+                {
+                  "Affiliation": "Department of Molecular and Cell Biology, University of California Berkeley, Berkeley, CA, USA."
+                },
+                {
+                  "Affiliation": "Chan Zuckerberg BioHub, San Francisco, CA, USA."
+                },
+                {
+                  "Affiliation": "Molecular Genetics Unit, Okinawa Institute of Science and Technology, Onna, Okinawa, Japan."
+                }
+              ],
+              "ForeName": "D S",
+              "Identifier": {
+                "#text": "0000-0002-8704-2224",
+                "@Source": "ORCID"
+              },
+              "Initials": "DS",
+              "LastName": "Rokhsar"
+            },
+            {
+              "@EqualContrib": "Y",
+              "@ValidYN": "Y",
+              "AffiliationInfo": {
+                "Affiliation": "Pacific Biosciences, Menlo Park, CA, USA."
+              },
+              "ForeName": "D R",
+              "Identifier": {
+                "#text": "0000-0001-9213-6965",
+                "@Source": "ORCID"
+              },
+              "Initials": "DR",
+              "LastName": "Rank"
+            },
+            {
+              "@EqualContrib": "Y",
+              "@ValidYN": "Y",
+              "AffiliationInfo": [
+                {
+                  "Affiliation": "Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA. clowe@stanford.edu."
+                },
+                {
+                  "Affiliation": "Chan Zuckerberg BioHub, San Francisco, CA, USA. clowe@stanford.edu."
+                }
+              ],
+              "ForeName": "C J",
+              "Identifier": {
+                "#text": "0000-0002-7789-8643",
+                "@Source": "ORCID"
+              },
+              "Initials": "CJ",
+              "LastName": "Lowe"
+            }
+          ]
+        },
+        "ELocationID": {
+          "#text": "10.1038/s41586-023-06669-2",
+          "@EIdType": "doi",
+          "@ValidYN": "Y"
+        },
+        "Journal": {
+          "ISOAbbreviation": "Nature",
+          "ISSN": {
+            "#text": "1476-4687",
+            "@IssnType": "Electronic"
+          },
+          "JournalIssue": {
+            "@CitedMedium": "Internet",
+            "Issue": "7987",
+            "PubDate": {
+              "Month": "Nov",
+              "Year": "2023"
+            },
+            "Volume": "623"
+          },
+          "Title": "Nature"
+        },
+        "Language": "eng",
+        "Pagination": {
+          "EndPage": "561",
+          "MedlinePgn": "555-561",
+          "StartPage": "555"
+        },
+        "PublicationTypeList": {
+          "PublicationType": {
+            "#text": "Journal Article",
+            "@UI": "D016428"
+          }
+        }
+      },
+      "ChemicalList": {
+        "Chemical": {
+          "NameOfSubstance": {
+            "#text": "Transcription Factors",
+            "@UI": "D014157"
+          },
+          "RegistryNumber": "0"
+        }
+      },
+      "CitationSubset": "IM",
+      "DateCompleted": {
+        "Day": "21",
+        "Month": "11",
+        "Year": "2023"
+      },
+      "DateRevised": {
+        "Day": "21",
+        "Month": "11",
+        "Year": "2023"
+      },
+      "MedlineJournalInfo": {
+        "Country": "England",
+        "ISSNLinking": "0028-0836",
+        "MedlineTA": "Nature",
+        "NlmUniqueID": "0410462"
+      },
+      "MeshHeadingList": {
+        "MeshHeading": [
+          {
+            "DescriptorName": {
+              "#text": "Animals",
+              "@MajorTopicYN": "N",
+              "@UI": "D000818"
+            }
+          },
+          {
+            "DescriptorName": {
+              "#text": "Body Patterning",
+              "@MajorTopicYN": "Y",
+              "@UI": "D019521"
+            },
+            "QualifierName": {
+              "#text": "genetics",
+              "@MajorTopicYN": "N",
+              "@UI": "Q000235"
+            }
+          },
+          {
+            "DescriptorName": {
+              "#text": "Gene Expression Regulation, Developmental",
+              "@MajorTopicYN": "N",
+              "@UI": "D018507"
+            }
+          },
+          {
+            "DescriptorName": {
+              "#text": "Transcription Factors",
+              "@MajorTopicYN": "N",
+              "@UI": "D014157"
+            },
+            "QualifierName": {
+              "#text": "metabolism",
+              "@MajorTopicYN": "N",
+              "@UI": "Q000378"
+            }
+          },
+          {
+            "DescriptorName": {
+              "#text": "Echinodermata",
+              "@MajorTopicYN": "Y",
+              "@UI": "D004447"
+            },
+            "QualifierName": [
+              {
+                "#text": "embryology",
+                "@MajorTopicYN": "N",
+                "@UI": "Q000196"
+              },
+              {
+                "#text": "genetics",
+                "@MajorTopicYN": "N",
+                "@UI": "Q000235"
+              }
+            ]
+          },
+          {
+            "DescriptorName": {
+              "#text": "Biological Evolution",
+              "@MajorTopicYN": "N",
+              "@UI": "D005075"
+            }
+          }
+        ]
+      },
+      "PMID": {
+        "#text": "37914929",
+        "@Version": "1"
+      }
+    },
+    "PubmedData": {
+      "ArticleIdList": {
+        "ArticleId": [
+          {
+            "#text": "37914929",
+            "@IdType": "pubmed"
+          },
+          {
+            "#text": "10.1038/s41586-023-06669-2",
+            "@IdType": "doi"
+          },
+          {
+            "#text": "10.1038/s41586-023-06669-2",
+            "@IdType": "pii"
+          }
+        ]
+      },
+      "History": {
+        "PubMedPubDate": [
+          {
+            "@PubStatus": "received",
+            "Day": "3",
+            "Month": "2",
+            "Year": "2023"
+          },
+          {
+            "@PubStatus": "accepted",
+            "Day": "22",
+            "Month": "9",
+            "Year": "2023"
+          },
+          {
+            "@PubStatus": "medline",
+            "Day": "17",
+            "Hour": "15",
+            "Minute": "28",
+            "Month": "11",
+            "Year": "2023"
+          },
+          {
+            "@PubStatus": "pubmed",
+            "Day": "2",
+            "Hour": "6",
+            "Minute": "42",
+            "Month": "11",
+            "Year": "2023"
+          },
+          {
+            "@PubStatus": "entrez",
+            "Day": "2",
+            "Hour": "0",
+            "Minute": "39",
+            "Month": "11",
+            "Year": "2023"
+          }
+        ]
+      },
+      "PublicationStatus": "ppublish",
+      "ReferenceList": {
+        "Reference": [
+          {
+            "Citation": "Hyman, L. H. The Invertebrates, Vol. IV, Echinodermata: The Coelomate Bilateria (McGraw-Hill, 1955)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "18638326",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1111/j.1525-142X.2008.00260.x",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Smith, A. B. Deuterostomes in a twist: the origins of a radical new body plan. Evol. Dev. 10, 493\u2013503 (2008)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "28422959",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "5396861",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1371/journal.pbio.2001573",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Albuixech-Crespo, B. et al. Molecular regionalization of the developing amphioxus neural tube challenges major partitions of the vertebrate brain. PLoS Biol. 15, e2001573 (2017)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "12837244",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1016/S0092-8674(03)00469-0",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Lowe, C. J. et al. Anteroposterior patterning in hemichordates and the origins of the chordate nervous system. Cell 113, 853\u2013865 (2003)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "22422262",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "3719855",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1038/nature10838",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Pani, A. M. et al. Ancient deuterostome origins of vertebrate brain signalling centres. Nature 483, 289\u2013294 (2012)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1098/rstb.2001.0972",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Reichert, H. & Simeone, A. Developmental genetic evidence for a monophyletic origin of the bilaterian brain. Philos. Trans. R. Soc. Lond. B 356, 1533\u20131544 (2001)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "12702651",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1242/dev.00438",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Hirth, F. et al. An urbilaterian origin of the tripartite brain: developmental genetic insights from Drosophila. Development 130, 2365\u20132373 (2003)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "20813265",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1016/j.cell.2010.07.043",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Tomer, R., Denes, A. S., Tessmar-Raible, K. & Arendt, D. Profiling by image registration reveals common origin of annelid mushroom bodies and vertebrate pallium. Cell 142, 800\u2013809 (2010)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "11324101",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1046/j.1525-142x.1999.99026.x",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Bromham, L. D. & Degnan, B. M. Hemichordates and deuterostome evolution: robust molecular phylogenetic support for a hemichordate\u2009+\u2009echinoderm clade. Evol. Dev. 1, 166\u2013171 (1999)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "10781046",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "18258",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1073/pnas.97.9.4469",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Cameron, C. B., Garey, J. R. & Swalla, B. J. Evolution of the chordate body plan: new insights from phylogenetic analyses of deuterostome phyla. Proc. Natl Acad. Sci. USA 97, 4469\u20134474 (2000)."
+          },
+          {
+            "Citation": "David, B. & Mooi, R. How Hox genes can shed light on the place of echinoderms among the deuterostomes. EvoDevo 5, 22 (2014)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "25903627",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1038/nature14434",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Lowe, C. J., Clarke, D. N., Medeiros, D. M., Rokhsar, D. S. & Gerhart, J. The deuterostome context of chordate origins. Nature 520, 456\u2013465 (2015)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "9338781",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1038/39580",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Lowe, C. J. & Wray, G. A. Radical alterations in the roles of homeobox genes during echinoderm evolution. Nature 389, 718\u2013721 (1997)."
+          },
+          {
+            "Citation": "Li, Y. et al. Genomic insights of body plan transitions from bilateral to pentameral symmetry in Echinoderms. Com. Biol. 3, 371 (2020)."
+          },
+          {
+            "Citation": "Popodi, E.,Andrews, M. & Raff, R. A. Evolution of body plans: using homeobox genes to examine the development of the radial CNS of echinoderms. Dev. Biol. 163, 540 (1994)."
+          },
+          {
+            "Citation": "Rozhnov, S. V. Symmetry of echinoderms: from initial bilaterally-asymmetric metamerism to pentaradiality. Nat. Sci. 6, 171\u2013183 (2014)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "25696827",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1242/jeb.109108",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Holland, L. Z. Evolution of basal deuterostome nervous systems. J. Exp. Biol. 218, 637\u2013645 (2015)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "26763653",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1111/ede.12172",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Byrne, M., Martinez, P. & Morris, V. Evolution of a pentameral body plan was not linked to translocation of anterior Hox genes: the echinoderm HOX cluster revisited. Evol. Dev. 18, 137\u2013143 (2016)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "11258395",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1046/j.1525-142x.2000.00042.x",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Peterson, K. J., Arenas\u2010Mena, C. & Davidson, E. H. The A/P axis in echinoderm ontogeny and evolution: evidence from fossils and molecules. Evol. Dev. 2, 93\u2013101 (2000)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "11023866",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1242/dev.127.21.4631",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Arenas-Mena, C., Cameron, A. R. & Davidson, E. H. Spatial expression of Hox cluster genes in the ontogeny of a sea urchin. Development 127, 4631\u20134643 (2000)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1002/jez.b.21065",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Morris, V. B. & Byrne, M. Involvement of two Hox genes and Otx in echinoderm body\u2010plan morphogenesis in the sea urchin Holopneustes purpurescens. J. Exp. Zool. B Mol. 304, 456\u2013467 (2005)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "17013610",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1007/s00427-006-0108-1",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Hara, Y. et al. Expression patterns of Hox genes in larvae of the sea lily Metacrinus rotundus. Dev. Genes Evol. 216, 797\u2013809 (2006)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "20182887",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1007/s00427-010-0318-4",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Cisternas, P. & Byrne, M. Expression of Hox4 during development of the pentamerous juvenile sea star, Parvulastra exigua. Dev. Genes Evol. 219, 613\u2013618 (2009)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "24129745",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1007/s00427-013-0457-5",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Morris, V. B. & Byrne, M. Oral\u2013aboral identity displayed in the expression of HpHox3 and HpHox11/13 in the adult rudiment of the sea urchin Holopneustes purpurescens. Dev. Genes Evol. 224, 1\u201311 (2014)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1002/dvdy.24135",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Tsuchimoto, J. & Yamaguchi, M. Hox expression in the direct\u2010type developing sand dollar Peronella japonica. Dev. Dynam. 243, 1020\u20131029 (2014)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "26250612",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1007/s00427-015-0510-7",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Kikuchi, M., Omori, A., Kurokawa, D. & Akasaka, K. Patterning of anteroposterior body axis displayed in the expression of Hox genes in sea cucumber Apostichopus japonicus. Dev. Genes Evol. 225, 275\u2013286 (2015)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1002/dvdy.24686",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Adachi, S. et al. Anteroposterior molecular registries in ectoderm of the echinus rudiment. Dev. Dynam. 247, 1297\u20131307 (2018)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "25417113",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1016/j.cell.2014.09.038",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Junker, J. P. et al. Genome-wide RNA tomography in the zebrafish embryo. Cell 159, 662\u2013675 (2014)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "36717049",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1016/j.ydbio.2023.01.009",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Tominaga, H., Nishitsuji, K. & Satoh, N. A single-cell RNA-seq analysis of early larval cell-types of the starfish, Patiria pectinifera: insights into evolution of the chordate body plan. Dev. Biol. 496, 52\u201362 (2023)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "25394327",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1002/dvg.22840",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Baughman, K. W. et al. Genomic organization of Hox and Para Hox clusters in the echinoderm, Acanthaster planci. Genesis 52, 952\u2013958 (2014)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "8575293",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1242/dev.121.12.3923",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Shimamura, K., Hartigan, D. J., Martinez, S., Puelles, L. & Rubenstein, J. L. Longitudinal organization of the anterior neural plate and neural tube. Development 121, 3923\u20133933 (1995)."
+          },
+          {
+            "Citation": "Quinlan, R., Graf, M., Mason, I., Lumsden, A. & Kiecker, C. Complex and dynamic patterns of Wnt pathway gene expression in the developing chick forebrain. Neural Dev. 4, 35 (2009)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1002/dvdy.24584",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Byrne, M. et al. Expression of genes and proteins of the pax\u2010six\u2010eya\u2010dach network in the metamorphic sea urchin: insights into development of the enigmatic echinoderm body plan and sensory structures. Dev. Dynam. 247, 239\u2013249 (2018)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "36078045",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "9454927",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.3390/cells11172636",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Paganos, P. et al. New model organism to investigate extraocular photoreception: opsin and retinal gene expression in the sea urchin Paracentrotus lividus. Cells 11, 2636 (2022)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "27939313",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1016/j.cub.2016.10.047",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Gonzalez, P., Uhlinger, K. R. & Lowe, C. J. The adult body plan of indirect developing hemichordates develops by adding a Hox-patterned trunk to an anterior larval territory. Curr. Biol. 27, 87\u201395 (2017)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1038/35053516",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Wurst, W. & Bally-Cuif, L. Neural plate patterning: upstream and downstream of the isthmic organizer. Nat. Rev. Neuro. 2, 99\u2013108 (2001)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "29337984",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "5786327",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1371/journal.pbio.2003698",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Darras, S. et al. Anteroposterior axis patterning by early canonical Wnt signaling during hemichordate development. PLoS Biol. 16, e2003698 (2018)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "10431240",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1038/11932",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Liu, P. et al. Requirement for Wnt3 in vertebrate axis formation. Nat. Genet. 22, 361\u2013365 (1999)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "7901322",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1002/neu.480241006",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Krumlauf, R. et al. Hox homeobox genes and regionalisation of the nervous system. J. Neurobiol. 24, 1328\u20131340 (1993)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "36697830",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "9977687",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1038/s41586-022-05636-7",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Mart\u00edn-Zamora, F. M. et al. Annelid functional genomics reveal the origins of bilaterian life cycles. Nature 615, 105\u2013110 (2023)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "7617035",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1038/376249a0",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Holley, S. A. et al. A conserved system for dorsal\u2013ventral patterning in insects and vertebrates involving sog and chordin. Nature 376, 249\u2013253 (1995)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "8598900",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1038/380037a0",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "De Robertis, E. M. & Sasai, Y. A common plan for dorsoventral patterning in Bilateria. Nature 380, 37\u201340 (1996)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "10202540",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1146/annurev.neuro.22.1.261",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Lee, K. J. & Jessell, T. M. The specification of dorsal cell fates in the vertebrate central nervous system. Annu. Rev. Neurosci. 22, 261\u2013294 (1999)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "11087629",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1006/dbio.2000.9927",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Yamada, M., Revelli, J. P., Eichele, G., Barron, M. & Schwartz, R. J. Expression of chick Tbx-2, Tbx-3 and Tbx-5 genes during early heart development: evidence for BMP2 induction of Tbx2. Dev. Biol. 228, 95\u2013105 (2000)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "11973277",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1242/dev.129.10.2459",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Timmer, J. R., Wang, C. & Niswander, L. BMP signaling patterns the dorsal and intermediate neural tube via regulation of homeobox and helix-loop-helix transcription factors. Development 129, 2459\u20132472 (2002)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "29925900",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "6010424",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1038/s41598-018-27700-x",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Barton-Owen, T. B., Ferrier, D. E. & Somorjai, I. M. Pax3/7 duplicated and diverged independently in amphioxus, the basal chordate lineage. Sci Rep. 8, 9414 (2018)."
+          },
+          {
+            "Citation": "Koop, D. et al. Nodal and BMP expression during the transition to pentamery in the sea urchin Heliocidaris erythrogramma: insights into patterning the enigmatic echinoderm body plan. BMC Dev. Biol. 17, 4 (2017)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "16933975",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "1551926",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1371/journal.pbio.0040291",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Lowe, C. J. et al. Dorsoventral patterning in hemichordates: insights into early chordate evolution. PLoS Biol. 4, e291 (2006)."
+          },
+          {
+            "Citation": "Panganiban, G. et al. The origin and evolution of animal appendages. Proc. Natl Acad. Sci. USA 94, 5162\u20135166 (1997)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1666/0094-8373(1998)024[0200:AMFTOO]2.3.CO;2",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Hotchkiss, F. H. A \u201crays-as-appendages\u201d model for the origin of pentamerism in echinoderms. Paleobiology 24, 200\u2013214 (1998)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "31210127",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "6581508",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.7554/eLife.43828",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Tarazona, O. A., Lopez, D. H., Slota, L. A. & Cohn, M. J. Evolution of limb development in cephalopod mollusks. eLife 8, e43828 (2019)."
+          },
+          {
+            "Citation": "Lacalli, T. Echinoderm conundrums: Hox genes, heterochrony and an excess of mouths. EvoDevo 5, 46 (2014)."
+          },
+          {
+            "Citation": "Yankura, K. A., Martik, M. L., Jennings, C. K. & Hinman, V. F. Uncoupling of complex regulatory patterning during evolution of larval development in echinoderms. BMC Biol. 8, 143 (2010)."
+          },
+          {
+            "Citation": "G\u0105siorowski, L. & Hejnol, A. Hox gene expression during development of the phoronid Phoronopsis harmeri. EvoDevo 11, 2 (2020)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "12142278",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1146/annurev.cellbio.18.020402.140619",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "True, J. R. & Carroll, S. B. Gene co-option in physiological and morphological evolution. Annu. Rev. Cell Dev. Biol. 18, 53\u201380 (2002)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "10199961",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1007/s004410051262",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Z\u00e1k\u00e1ny, J. & Duboule, D. Hox genes in digit development and evolution. Cell Tissue Res. 296, 19\u201325 (1999)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "23804624",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "3712455",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1098/rspb.2013.1197",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Smith, A. B. & Zamora, S. Cambrian spiral-plated echinoderms from Gondwana reveal the earliest pentaradial body plan. Proc. R. Soc. B 280, 20131197 (2013)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "32671457",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1007/s00427-020-00665-6",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Omori, A., Shibata, T. F. & Akasaka, K. Gene expression analysis of three homeobox genes throughout early and late development of a feather star Anneissia japonica. Dev. Genes Evol. 230, 305\u2013314 (2020)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1111/pala.12138",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Zamora, S. & Rahman, I. A. Deciphering the early evolution of echinoderms with Cambrian fossils. Paleontology 57, 1105\u20131119 (2014)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "27069800",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "4824901",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.7717/peerj.1860",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Montanaro, J., Gruber, D. & Leisch, N. Improved ultrastructure of marine invertebrates using non-toxic buffers. PeerJ 4, e1860 (2016)."
+          },
+          {
+            "Citation": "Ronneberger, O., Fischer, P. & Brox, T. in Medical Image Computing and Computer-Assisted Intervention\u2014MICCAI 2015 (eds Navab, N. et al.) 234\u2013241 (Springer, 2015)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "31406327",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "6776680",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1038/s41587-019-0217-9",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Wenger, A. M. et al. Accurate circular consensus long-read sequencing improves variant detection and assembly of a human genome. Nat. Biotechnol. 37, 1155\u20131162 (2019)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "33526886",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "7961889",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1038/s41592-020-01056-5",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Cheng, H., Concepcion, G. T., Feng, X., Zhang, H. & Li, H. Haplotype-resolved de novo assembly using phased assembly graphs with hifiasm. Nat. Methods 18, 170\u2013175 (2021)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "26059717",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1093/bioinformatics/btv351",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Sim\u00e3o, F. A., Waterhouse, R. M., Ioannidis, P., Kriventseva, E. V. & Zdobnov, E. M. BUSCO: assessing genome assembly and annotation completeness with single-copy orthologs. Bioinformatics 31, 3210\u20133212 (2015)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "23226355",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "3511300",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1371/journal.pone.0050685",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Bellantuono, A. J., Granados-Cifuentes, C., Miller, D. J., Hoegh-Guldberg, O. & Rodriguez-Lanetty, M. Coral thermal tolerance: tuning gene expression to resist thermal stress. PLoS ONE 7, e50685 (2012)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "27443932",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1016/bs.mcb.2016.01.006",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Kruse, F., Junker, J. P., Van Oudenaarden, A. & Bakkers, J. Tomo-seq: a method to obtain genome-wide expression data with spatial resolution. Methods Cell. Biol. 135, 299\u2013307 (2016)."
+          },
+          {
+            "Citation": "Al\u2019Khafaji, A. M. et al. High-throughput RNA isoform sequencing using programmable cDNA concatenation. Nat. Biotechnol. https://doi.org/10.1038/s41587-023-01815-7 (2023)."
+          },
+          {
+            "Citation": "Mattick, J. IsoSeq v.4.00. GitHub https://github.com/PacificBiosciences/IsoSeq (2023)."
+          },
+          {
+            "Citation": "Tseng, E. cDNA cupcake v.25.2.0. GitHub https://github.com/Magdoll/cDNA_Cupcake/wiki (2022)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "29750242",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "6137996",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1093/bioinformatics/bty191",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Li, H. Minimap2: pairwise alignment for nucleotide sequences. Bioinformatics 34, 3094\u20133100 (2018)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "29440222",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "5848618",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1101/gr.222976.117",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Tardaguila, M. et al. SQANTI: extensive characterization of long-read transcript sequences for quality control in full-length transcriptome identification and quantification. Genome Res. 28, 396\u2013411 (2018)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "27004904",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "8210823",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1093/molbev/msw054",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Kumar, S., Stecher, G. & Tamura, K. MEGA7: Molecular Evolutionary Genetics Analysis version 7.0 for bigger datasets. Mol. Biol. Evol. 33, 1870\u20131874 (2016)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "11524383",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1093/bioinformatics/17.8.754",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Huelsenbeck, J. P. & Ronquist, F. MRBAYES: Bayesian inference of phylogenetic trees. Bioinformatics 17, 754\u2013755 (2001)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1007/BF02289162",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Guttman, L. Some necessary conditions for common-factor analysis. Psychometrika 19, 149\u2013161 (1954)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1007/s00357-014-9161-z",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Murtagh, F. & Legendre, P. Ward\u2019s hierarchical agglomerative clustering method: which algorithms implement Ward\u2019s criterion? J. Classif. 31, 274\u2013295 (2014)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1016/0377-0427(87)90125-7",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Rousseeuw, P. J. Silhouettes: a graphical aid to the interpretation and validation of cluster analysis. J. Comput. Appl. Math. 20, 53\u201365 (1987)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1093/icb/icl045",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Aronowicz, J. & Lowe, C. J. Hox gene expression in the hemichordate Saccoglossus kowalevskii and the evolution of deuterostome nervous systems. Int. Comp. Biol. 46, 890\u2013901 (2006)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "20435033",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "2909331",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1016/j.ydbio.2010.04.022",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Lemons, D., Fritzenwanker, J. H., Gerhart, J., Lowe, C. J. & McGinnis, W. Co-option of an anteroposterior head axis patterning system for proximodistal patterning of appendages in early bilaterian evolution. Dev. Biol. 344, 358\u2013362 (2010)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "25303744",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "5673098",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1002/dvg.22831",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Satoh, N. et al. On a possible evolutionary link of the stomochord of hemichordates to pharyngeal organs of chordates. Genesis 52, 925\u2013934 (2014)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "30967509",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "6486776",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1073/pnas.1817496116",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Fritzenwanker, J. H., Uhlinger, K. R., Gerhart, J., Silva, E. & Lowe, C. J. Untangling posterior growth and segmentation by analyzing mechanisms of axis elongation in hemichordates. Proc. Natl Acad. Sci. USA 116, 8403\u20138408 (2019)."
+          },
+          {
+            "Citation": "Kaul-Strehlow, S., Urata, M., Praher, D. & Wanninger, A. Neuronal patterning of the tubular collar cord is highly conserved among enteropneusts but dissimilar to the chordate neural tube. Sci. Rep. 7, 7003 (2017)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "29945988",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "6031405",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1242/dev.165753",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Choi, H. M. et al. Third-generation in situ hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust. Development 145, dev165753 (2018)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": {
+                "#text": "10.1002/jez.b.23100",
+                "@IdType": "doi"
+              }
+            },
+            "Citation": "Kuehn, E. et al. Segment number threshold determines juvenile onset of germline cluster expansion in Platynereis dumerilii. J. Exp. Zool. B 338, 225\u2013240 (2022)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "22930834",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "5554542",
+                  "@IdType": "pmc"
+                },
+                {
+                  "#text": "10.1038/nmeth.2089",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Schneider, C. A., Rasband, W. S. & Eliceiri, K. W. NIH Image to ImageJ: 25 years of image analysis. Nat. Methods 9, 671\u2013675 (2012)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "15575607",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1016/S0091-679X(04)74008-X",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Lowe, C. J., Tagawa, K., Humphreys, T., Kirschner, M. & Gerhart, J. Hemichordate embryos: procurement, culture and basic methods. Methods Cell. Biol. 74, 171\u2013194 (2004)."
+          },
+          {
+            "ArticleIdList": {
+              "ArticleId": [
+                {
+                  "#text": "32841380",
+                  "@IdType": "pubmed"
+                },
+                {
+                  "#text": "10.1002/cne.25012",
+                  "@IdType": "doi"
+                }
+              ]
+            },
+            "Citation": "Formery, L. et al. Neural anatomy of echinoid early juveniles and comparison of nervous system organization in echinoderms. J. Comp. Neurol. 529, 1135\u20131156 (2021)."
+          },
+          {
+            "Citation": "Thompson, J. R., Paganos, P., Benvenuto, G., Arnone, M. I. & Oliveri, P. Post-metamorphic skeletal growth in the sea urchin Paracentrotus lividus and implications for body plan evolution. EvoDevo 12, 3 (2021)."
+          }
+        ]
+      }
+    }
+  },
+  "sulpub_json": null,
+  "title": "Molecular evidence of anteroposterior patterning in adult echinoderms",
+  "updated_at": "2025-07-11 22:48:57.874486",
+  "wos_json": {
+    "UID": "WOS:001169056000018",
+    "dynamic_data": {
+      "citation_related": {
+        "tc_list": {
+          "silo_tc": {
+            "coll_id": "WOS",
+            "local_count": 32
+          },
+          "tc_mod_date": "2025-06-07"
+        }
+      },
+      "cluster_related": {
+        "identifiers": {
+          "identifier": [
+            {
+              "type": "issn",
+              "value": "0028-0836"
+            },
+            {
+              "type": "eissn",
+              "value": "1476-4687"
+            },
+            {
+              "type": "doi",
+              "value": "10.1038/s41586-023-06669-2"
+            },
+            {
+              "type": "pmid",
+              "value": "MEDLINE:37914929"
+            }
+          ]
+        }
+      }
+    },
+    "links": {
+      "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=sul_pub&SrcAuth=WosAPI&KeyUT=WOS:001169056000018&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+      "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=sul_pub&SrcAuth=WosAPI&KeyUT=WOS:001169056000018&DestLinkType=FullRecord&DestApp=WOS_CPL",
+      "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=sul_pub&SrcAuth=WosAPI&KeyUT=WOS:001169056000018&DestLinkType=CitedReferences&DestApp=WOS",
+      "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=sul_pub&SrcAuth=WosAPI&KeyUT=WOS:001169056000018&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+    },
+    "r_id_disclaimer": "ResearcherID data provided by Clarivate Analytics",
+    "static_data": {
+      "fullrecord_metadata": {
+        "normalized_doctypes": {
+          "count": 1,
+          "doctype": "Article"
+        },
+        "refs": {
+          "count": 87
+        }
+      },
+      "summary": {
+        "doctypes": {
+          "count": 1,
+          "doctype": "Article"
+        },
+        "names": {
+          "count": 10,
+          "name": [
+            {
+              "display_name": "Formery, L.",
+              "r_id": "FZX-0917-2022",
+              "role": "author",
+              "seq_no": 1,
+              "wos_standard": "Formery, L"
+            },
+            {
+              "display_name": "Peluso, P.",
+              "r_id": "DND-3798-2022",
+              "role": "author",
+              "seq_no": 2,
+              "wos_standard": "Peluso, P"
+            },
+            {
+              "display_name": "Kohnle, I.",
+              "r_id": "FCL-1317-2022",
+              "role": "author",
+              "seq_no": 3,
+              "wos_standard": "Kohnle, I"
+            },
+            {
+              "display_name": "Malnick, J.",
+              "role": "author",
+              "seq_no": 4,
+              "wos_standard": "Malnick, J"
+            },
+            {
+              "display_name": "Thompson, J. R.",
+              "r_id": "ABD-6282-2021",
+              "role": "author",
+              "seq_no": 5,
+              "wos_standard": "Thompson, JR"
+            },
+            {
+              "display_name": "Pitel, M.",
+              "r_id": "HUK-2816-2023",
+              "role": "author",
+              "seq_no": 6,
+              "wos_standard": "Pitel, M"
+            },
+            {
+              "display_name": "Uhlinger, K. R.",
+              "r_id": "GFI-9593-2022",
+              "role": "author",
+              "seq_no": 7,
+              "wos_standard": "Uhlinger, KR"
+            },
+            {
+              "display_name": "Rokhsar, D. S.",
+              "r_id": "G-5831-2015",
+              "role": "author",
+              "seq_no": 8,
+              "wos_standard": "Rokhsar, DS"
+            },
+            {
+              "display_name": "Rank, D. R.",
+              "r_id": "DWB-9152-2022",
+              "role": "author",
+              "seq_no": 9,
+              "wos_standard": "Rank, DR"
+            },
+            {
+              "display_name": "Lowe, C. J.",
+              "r_id": "HPQ-2249-2023",
+              "role": "author",
+              "seq_no": 10,
+              "wos_standard": "Lowe, CJ"
+            }
+          ]
+        },
+        "pub_info": {
+          "page": {
+            "page_count": 20
+          },
+          "pubtype": "Journal",
+          "pubyear": 2023,
+          "vol": 623
+        },
+        "titles": {
+          "count": 2,
+          "title": [
+            {
+              "content": "NATURE",
+              "type": "source"
+            },
+            {
+              "content": "Molecular evidence of anteroposterior patterning in adult echinoderms",
+              "type": "item"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

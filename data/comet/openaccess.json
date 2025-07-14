@@ -1,0 +1,1442 @@
+{
+  "apc": 650,
+  "authors": [
+    {
+      "academic_council": false,
+      "author_id": 217,
+      "cap_profile_id": "144179",
+      "created_at": "2025-07-11 22:25:00.684692",
+      "departments": [
+        "Cardiovascular Institute",
+        "Cardiothoracic Surgery"
+      ],
+      "first_name": "John",
+      "id": 217,
+      "last_name": "MacArthur",
+      "orcid": "https://orcid.org/0000-0003-3385-4216",
+      "primary_dept": "Cardiothoracic Surgery",
+      "primary_division": "Adult Cardiac Surgery",
+      "primary_role": "faculty",
+      "primary_school": "School of Medicine",
+      "publication_id": 3229,
+      "schools": [
+        "School of Medicine"
+      ],
+      "status": true,
+      "sunet": "jwm2108",
+      "updated_at": null
+    }
+  ],
+  "created_at": "2025-07-11 22:30:09.612565",
+  "crossref_json": {
+    "DOI": "10.1016/j.jaccas.2024.102715",
+    "ISSN": [
+      "2666-0849"
+    ],
+    "URL": "https://doi.org/10.1016/j.jaccas.2024.102715",
+    "alternative-id": [
+      "S2666084924007150"
+    ],
+    "article-number": "102715",
+    "assertion": [
+      {
+        "label": "This article is maintained by",
+        "name": "publisher",
+        "value": "Elsevier"
+      },
+      {
+        "label": "Article Title",
+        "name": "articletitle",
+        "value": "Transcatheter Aortic Valve Replacement in Patients With Interventricular Membranous Septal Aneurysms"
+      },
+      {
+        "label": "Journal Title",
+        "name": "journaltitle",
+        "value": "JACC: Case Reports"
+      },
+      {
+        "label": "CrossRef DOI link to publisher maintained version",
+        "name": "articlelink",
+        "value": "https://doi.org/10.1016/j.jaccas.2024.102715"
+      },
+      {
+        "label": "Content Type",
+        "name": "content_type",
+        "value": "article"
+      },
+      {
+        "label": "Copyright",
+        "name": "copyright",
+        "value": "\u00a9 2025 Published by Elsevier on behalf of the American College of Cardiology Foundation."
+      }
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6931-2673",
+        "affiliation": [],
+        "authenticated-orcid": false,
+        "family": "Theriault-Lauzier",
+        "given": "Pascal",
+        "sequence": "first"
+      },
+      {
+        "affiliation": [],
+        "family": "Dawson",
+        "given": "Luke P.",
+        "sequence": "additional"
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0180-0072",
+        "affiliation": [],
+        "authenticated-orcid": false,
+        "family": "Wong",
+        "given": "Christopher C.Y.",
+        "sequence": "additional"
+      },
+      {
+        "affiliation": [],
+        "family": "Sharma",
+        "given": "Rahul P.",
+        "sequence": "additional"
+      },
+      {
+        "affiliation": [],
+        "family": "Fearon",
+        "given": "William F.",
+        "sequence": "additional"
+      },
+      {
+        "affiliation": [],
+        "family": "Kang",
+        "given": "Guson",
+        "sequence": "additional"
+      },
+      {
+        "affiliation": [],
+        "family": "MacArthur",
+        "given": "John W.",
+        "sequence": "additional"
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2163-5780",
+        "affiliation": [],
+        "authenticated-orcid": false,
+        "family": "Pogatchnik",
+        "given": "Brian P.",
+        "sequence": "additional"
+      },
+      {
+        "affiliation": [],
+        "family": "Krishnam",
+        "given": "Mayil Singram",
+        "sequence": "additional"
+      },
+      {
+        "affiliation": [],
+        "family": "Yeung",
+        "given": "Alan C.",
+        "sequence": "additional"
+      }
+    ],
+    "container-title": [
+      "JACC: Case Reports"
+    ],
+    "content-domain": {
+      "crossmark-restriction": true,
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          4
+        ]
+      ],
+      "date-time": "2024-12-04T23:25:13Z",
+      "timestamp": 1733354713000
+    },
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2025-01-05T08:26:38Z",
+      "timestamp": 1736065598000
+    },
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          26
+        ]
+      ],
+      "date-time": "2025-05-26T05:25:29Z",
+      "timestamp": 1748237129857,
+      "version": "3.32.0"
+    },
+    "is-referenced-by-count": 1,
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "2666-0849"
+      }
+    ],
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1
+        ]
+      ]
+    },
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            1
+          ]
+        ]
+      }
+    },
+    "language": "en",
+    "license": [
+      {
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2025-01-01T00:00:00Z",
+          "timestamp": 1735689600000
+        }
+      },
+      {
+        "URL": "https://www.elsevier.com/legal/tdmrep-license",
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2025-01-01T00:00:00Z",
+          "timestamp": 1735689600000
+        }
+      },
+      {
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2024-10-07T00:00:00Z",
+          "timestamp": 1728259200000
+        }
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2666084924007150?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2666084924007150?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "member": "78",
+    "page": "102715",
+    "prefix": "10.1016",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          1
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          1
+        ]
+      ]
+    },
+    "publisher": "Elsevier BV",
+    "reference": [
+      {
+        "DOI": "10.1258/ar.2011.100388",
+        "article-title": "Ventricular septal aneurysms in adults: findings of cardiac CT images and correlation with clinical features",
+        "author": "Choi",
+        "doi-asserted-by": "crossref",
+        "first-page": "619",
+        "issue": "6",
+        "journal-title": "Acta Radiol",
+        "key": "10.1016/j.jaccas.2024.102715_bib1",
+        "volume": "52",
+        "year": "2011"
+      },
+      {
+        "DOI": "10.4330/wjc.v10.i1.1",
+        "article-title": "Transcatheter aortic valve replacement in membranous interventricular septum aneurysm with left ventricular outflow tract extension",
+        "author": "Banga",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "issue": "1",
+        "journal-title": "World J Cardiol",
+        "key": "10.1016/j.jaccas.2024.102715_bib2",
+        "volume": "10",
+        "year": "2018"
+      },
+      {
+        "DOI": "10.1136/bcr-2019-231215",
+        "article-title": "TAVR in a patient with a membranous ventricular septal aneurysm identified during cardiac CT",
+        "author": "Hawa",
+        "doi-asserted-by": "crossref",
+        "issue": "7",
+        "journal-title": "BMJ Case Rep",
+        "key": "10.1016/j.jaccas.2024.102715_bib3",
+        "volume": "12",
+        "year": "2019"
+      },
+      {
+        "DOI": "10.14503/THIJ-19-7117",
+        "article-title": "Transcatheter aortic valve implantation for severe aortic stenosis and large membranous interventricular septal aneurysm",
+        "author": "Gedela",
+        "doi-asserted-by": "crossref",
+        "issue": "5",
+        "journal-title": "Texas Heart Inst J",
+        "key": "10.1016/j.jaccas.2024.102715_bib4",
+        "volume": "49",
+        "year": "2022"
+      },
+      {
+        "article-title": "Pure aortic regurgitation complicated by membranous interventricular septum aneurysm treated with transcatheter aortic valve replacement",
+        "author": "Kassis",
+        "journal-title": "JACC Case Rep",
+        "key": "10.1016/j.jaccas.2024.102715_bib5",
+        "volume": "10",
+        "year": "2023"
+      },
+      {
+        "DOI": "10.11152/mu-2706",
+        "article-title": "Transcatheter aortic valve implantation in a patient with interventricular membranous septal aneurysm resulted in cardiac tamponade of unclear etiology",
+        "author": "Dregoesc",
+        "doi-asserted-by": "crossref",
+        "first-page": "104",
+        "issue": "1",
+        "journal-title": "Med Ultrason",
+        "key": "10.1016/j.jaccas.2024.102715_bib6",
+        "volume": "25",
+        "year": "2023"
+      },
+      {
+        "DOI": "10.1111/jocs.16504",
+        "article-title": "Large interventricular membranous septal aneurysm renders the anatomy unsuitable for transcatheter aortic valve replacement",
+        "author": "Shirai",
+        "doi-asserted-by": "crossref",
+        "first-page": "2103",
+        "issue": "7",
+        "journal-title": "J\u00a0Card Surg",
+        "key": "10.1016/j.jaccas.2024.102715_bib7",
+        "volume": "37",
+        "year": "2022"
+      },
+      {
+        "DOI": "10.1016/j.jcin.2018.06.027",
+        "article-title": "Overexpansion of the SAPIEN 3 transcatheter heart valve",
+        "author": "Sathananthan",
+        "doi-asserted-by": "crossref",
+        "first-page": "1696",
+        "issue": "17",
+        "journal-title": "JACC Cardiovasc Interv",
+        "key": "10.1016/j.jaccas.2024.102715_bib8",
+        "volume": "11",
+        "year": "2018"
+      },
+      {
+        "DOI": "10.1016/j.ijcard.2021.02.080",
+        "article-title": "Impact of Interventricular membranous septum length on pacemaker need with different transcatheter aortic valve implantation systems",
+        "author": "Hokken",
+        "doi-asserted-by": "crossref",
+        "first-page": "152",
+        "journal-title": "Int J Cardiol",
+        "key": "10.1016/j.jaccas.2024.102715_bib9",
+        "volume": "333",
+        "year": "2021"
+      },
+      {
+        "DOI": "10.1007/s13244-015-0456-3",
+        "article-title": "Interventricular membranous septal aneurysm: CT and MR manifestations",
+        "author": "Carcano",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "issue": "1",
+        "journal-title": "Insights Imag",
+        "key": "10.1016/j.jaccas.2024.102715_bib10",
+        "volume": "7",
+        "year": "2016"
+      },
+      {
+        "DOI": "10.1016/j.case.2022.01.010",
+        "article-title": "Membranous ventricular septal aneurysm leading to embolic stroke",
+        "author": "Colangelo",
+        "doi-asserted-by": "crossref",
+        "first-page": "142",
+        "issue": "3",
+        "journal-title": "CASE",
+        "key": "10.1016/j.jaccas.2024.102715_bib11",
+        "volume": "6",
+        "year": "2022"
+      }
+    ],
+    "reference-count": 11,
+    "references-count": 11,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2666084924007150"
+      }
+    },
+    "score": 0.0,
+    "short-container-title": [
+      "JACC: Case Reports"
+    ],
+    "source": "Crossref",
+    "title": [
+      "Transcatheter Aortic Valve Replacement in Patients With Interventricular Membranous Septal Aneurysms"
+    ],
+    "type": "journal-article",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "volume": "30"
+  },
+  "dim_json": null,
+  "doi": "10.1016/j.jaccas.2024.102715",
+  "funders": [],
+  "id": 3229,
+  "open_access": "gold",
+  "openalex_json": {
+    "abstract_inverted_index": {
+      "2": [
+        39
+      ],
+      "A": [
+        35
+      ],
+      "Aneurysms": [
+        0
+      ],
+      "Preprocedural,": [
+        58
+      ],
+      "Such": [
+        21
+      ],
+      "The": [
+        83
+      ],
+      "a": [
+        7
+      ],
+      "also": [
+        92
+      ],
+      "anatomical": [
+        9
+      ],
+      "and": [
+        50,
+        60,
+        64,
+        88
+      ],
+      "aneurysms": [
+        22,
+        44
+      ],
+      "aortic": [
+        32,
+        76
+      ],
+      "are": [
+        6,
+        68,
+        91
+      ],
+      "balloon-expandable": [
+        49
+      ],
+      "be": [
+        13
+      ],
+      "can": [
+        12,
+        23
+      ],
+      "case": [
+        36
+      ],
+      "challenges": [
+        25
+      ],
+      "computed": [
+        17,
+        65
+      ],
+      "current-generation": [
+        48
+      ],
+      "demonstrate": [
+        71
+      ],
+      "deployment": [
+        89
+      ],
+      "detected": [
+        14
+      ],
+      "device": [
+        86
+      ],
+      "dynamics": [
+        90
+      ],
+      "echocardiographic,": [
+        62
+      ],
+      "echocardiography.": [
+        20
+      ],
+      "feasibility": [
+        73
+      ],
+      "feature": [
+        10
+      ],
+      "fluoroscopic,": [
+        63
+      ],
+      "for": [
+        85
+      ],
+      "heart": [
+        53
+      ],
+      "here.": [
+        57
+      ],
+      "illustrated.": [
+        93
+      ],
+      "images": [
+        67
+      ],
+      "implications": [
+        84
+      ],
+      "in": [
+        26,
+        79
+      ],
+      "incidentally": [
+        15
+      ],
+      "interventricular": [
+        3
+      ],
+      "intraprocedural,": [
+        59
+      ],
+      "is": [
+        55
+      ],
+      "membranous": [
+        4,
+        42
+      ],
+      "of": [
+        1,
+        29,
+        38,
+        74
+      ],
+      "on": [
+        16
+      ],
+      "or": [
+        19
+      ],
+      "patient": [
+        81
+      ],
+      "patients": [
+        30,
+        40
+      ],
+      "population.": [
+        82
+      ],
+      "pose": [
+        24
+      ],
+      "postprocedural": [
+        61
+      ],
+      "presented": [
+        56,
+        69
+      ],
+      "rare": [
+        8
+      ],
+      "replacement": [
+        78
+      ],
+      "self-expanding": [
+        51
+      ],
+      "septal": [
+        43
+      ],
+      "septum": [
+        5
+      ],
+      "series": [
+        37
+      ],
+      "sizing": [
+        87
+      ],
+      "stenosis.": [
+        34
+      ],
+      "successfully": [
+        46
+      ],
+      "that": [
+        11
+      ],
+      "the": [
+        2,
+        27,
+        72
+      ],
+      "this": [
+        80
+      ],
+      "to": [
+        70
+      ],
+      "tomographic": [
+        66
+      ],
+      "tomography": [
+        18
+      ],
+      "transcatheter": [
+        52,
+        75
+      ],
+      "treated": [
+        45
+      ],
+      "treatment": [
+        28
+      ],
+      "valve": [
+        33,
+        77
+      ],
+      "valves": [
+        54
+      ],
+      "with": [
+        31,
+        41,
+        47
+      ]
+    },
+    "abstract_inverted_index_v3": null,
+    "apc_list": {
+      "currency": "USD",
+      "value": 650,
+      "value_usd": 650
+    },
+    "apc_paid": {
+      "currency": "USD",
+      "value": 650,
+      "value_usd": 650
+    },
+    "authorships": [
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+          },
+          {
+            "institution_ids": [
+              "https://openalex.org/I153718931"
+            ],
+            "raw_affiliation_string": "Division of Cardiology, University of Ottawa Heart Institute, Ottawa, Ontario, Canada."
+          }
+        ],
+        "author": {
+          "display_name": "Pascal Th\u00e9riault-Lauzier",
+          "id": "https://openalex.org/A5016448855",
+          "orcid": "https://orcid.org/0000-0002-6931-2673"
+        },
+        "author_position": "first",
+        "countries": [
+          "CA",
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          },
+          {
+            "country_code": "CA",
+            "display_name": "University of Ottawa",
+            "id": "https://openalex.org/I153718931",
+            "lineage": [
+              "https://openalex.org/I153718931"
+            ],
+            "ror": "https://ror.org/03c4mmv16",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Division of Cardiology, University of Ottawa Heart Institute, Ottawa, Ontario, Canada.",
+          "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+        ],
+        "raw_author_name": "Pascal Theriault-Lauzier"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+          }
+        ],
+        "author": {
+          "display_name": "L. Dawson",
+          "id": "https://openalex.org/A5043900854",
+          "orcid": "https://orcid.org/0000-0003-3789-5808"
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+        ],
+        "raw_author_name": "Luke P Dawson"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+          }
+        ],
+        "author": {
+          "display_name": "Christopher Wong",
+          "id": "https://openalex.org/A5088882069",
+          "orcid": "https://orcid.org/0000-0002-0180-0072"
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+        ],
+        "raw_author_name": "Christopher C Y Wong"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+          }
+        ],
+        "author": {
+          "display_name": "Rahul P. Sharma",
+          "id": "https://openalex.org/A5102505619",
+          "orcid": null
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+        ],
+        "raw_author_name": "Rahul P Sharma"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+          }
+        ],
+        "author": {
+          "display_name": "William F. Fearon",
+          "id": "https://openalex.org/A5107833856",
+          "orcid": null
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+        ],
+        "raw_author_name": "William F Fearon"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+          }
+        ],
+        "author": {
+          "display_name": "Guson Kang",
+          "id": "https://openalex.org/A5043992853",
+          "orcid": "https://orcid.org/0000-0002-8938-7883"
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+        ],
+        "raw_author_name": "Guson Kang"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Department of Cardiothoracic Surgery, Stanford University School of Medicine, Stanford, California, USA."
+          }
+        ],
+        "author": {
+          "display_name": "John W. MacArthur",
+          "id": "https://openalex.org/A5020792039",
+          "orcid": "https://orcid.org/0000-0003-3385-4216"
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Department of Cardiothoracic Surgery, Stanford University School of Medicine, Stanford, California, USA."
+        ],
+        "raw_author_name": "John W MacArthur"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Cardiovascular Imaging Division, Department of Radiology, Stanford University School of Medicine, Stanford, California, USA."
+          }
+        ],
+        "author": {
+          "display_name": "Brian Pogatchnik",
+          "id": "https://openalex.org/A5024597317",
+          "orcid": "https://orcid.org/0000-0002-2163-5780"
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Cardiovascular Imaging Division, Department of Radiology, Stanford University School of Medicine, Stanford, California, USA."
+        ],
+        "raw_author_name": "Brian P Pogatchnik"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Cardiovascular Imaging Division, Department of Radiology, Stanford University School of Medicine, Stanford, California, USA."
+          }
+        ],
+        "author": {
+          "display_name": "Mayil S. Krishnam",
+          "id": "https://openalex.org/A5035371115",
+          "orcid": "https://orcid.org/0000-0002-0070-5997"
+        },
+        "author_position": "middle",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Cardiovascular Imaging Division, Department of Radiology, Stanford University School of Medicine, Stanford, California, USA."
+        ],
+        "raw_author_name": "Mayil Singram Krishnam"
+      },
+      {
+        "affiliations": [
+          {
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ],
+            "raw_affiliation_string": "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+          }
+        ],
+        "author": {
+          "display_name": "Alan C. Yeung",
+          "id": "https://openalex.org/A5072857168",
+          "orcid": "https://orcid.org/0000-0001-5226-3695"
+        },
+        "author_position": "last",
+        "countries": [
+          "US"
+        ],
+        "institutions": [
+          {
+            "country_code": "US",
+            "display_name": "Stanford University",
+            "id": "https://openalex.org/I97018004",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ],
+            "ror": "https://ror.org/00f54p054",
+            "type": "funder"
+          }
+        ],
+        "is_corresponding": false,
+        "raw_affiliation_strings": [
+          "Interventional Cardiology Section, Division of Cardiovascular Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+        ],
+        "raw_author_name": "Alan C Yeung"
+      }
+    ],
+    "best_oa_location": {
+      "is_accepted": true,
+      "is_oa": true,
+      "is_published": true,
+      "landing_page_url": "https://doi.org/10.1016/j.jaccas.2024.102715",
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "pdf_url": null,
+      "source": {
+        "display_name": "JACC Case Reports",
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "host_organization_name": "Elsevier BV",
+        "id": "https://openalex.org/S4210180918",
+        "is_core": true,
+        "is_in_doaj": true,
+        "is_indexed_in_scopus": true,
+        "is_oa": true,
+        "issn": [
+          "2666-0849"
+        ],
+        "issn_l": "2666-0849",
+        "type": "journal"
+      },
+      "version": "publishedVersion"
+    },
+    "biblio": {
+      "first_page": "102715",
+      "issue": "1",
+      "last_page": "102715",
+      "volume": "30"
+    },
+    "citation_normalized_percentile": {
+      "is_in_top_10_percent": false,
+      "is_in_top_1_percent": false,
+      "value": 0.0
+    },
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4405014432",
+    "cited_by_count": 0,
+    "cited_by_percentile_year": {
+      "max": 74,
+      "min": 0
+    },
+    "concepts": [
+      {
+        "display_name": "Cardiology",
+        "id": "https://openalex.org/C164705383",
+        "level": 1,
+        "score": 0.71141285,
+        "wikidata": "https://www.wikidata.org/wiki/Q10379"
+      },
+      {
+        "display_name": "Internal medicine",
+        "id": "https://openalex.org/C126322002",
+        "level": 1,
+        "score": 0.672863,
+        "wikidata": "https://www.wikidata.org/wiki/Q11180"
+      },
+      {
+        "display_name": "Medicine",
+        "id": "https://openalex.org/C71924100",
+        "level": 0,
+        "score": 0.5993937,
+        "wikidata": "https://www.wikidata.org/wiki/Q11190"
+      },
+      {
+        "display_name": "Interventricular septum",
+        "id": "https://openalex.org/C2779740085",
+        "level": 3,
+        "score": 0.44579977,
+        "wikidata": "https://www.wikidata.org/wiki/Q2397680"
+      },
+      {
+        "display_name": "Aortic valve",
+        "id": "https://openalex.org/C2780714102",
+        "level": 2,
+        "score": 0.43052003,
+        "wikidata": "https://www.wikidata.org/wiki/Q616071"
+      },
+      {
+        "display_name": "Valve replacement",
+        "id": "https://openalex.org/C2780026749",
+        "level": 3,
+        "score": 0.41722256,
+        "wikidata": "https://www.wikidata.org/wiki/Q7912830"
+      },
+      {
+        "display_name": "Stenosis",
+        "id": "https://openalex.org/C2780007028",
+        "level": 2,
+        "score": 0.11007267,
+        "wikidata": "https://www.wikidata.org/wiki/Q2343082"
+      },
+      {
+        "display_name": "Ventricle",
+        "id": "https://openalex.org/C2778921608",
+        "level": 2,
+        "score": 0.043665856,
+        "wikidata": "https://www.wikidata.org/wiki/Q2002035"
+      }
+    ],
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "countries_distinct_count": 2,
+    "counts_by_year": [],
+    "created_date": "2024-12-05",
+    "datasets": [],
+    "display_name": "Transcatheter Aortic Valve Replacement in Patients With Interventricular Membranous Septal Aneurysms",
+    "doi": "https://doi.org/10.1016/j.jaccas.2024.102715",
+    "fwci": 0.0,
+    "grants": [],
+    "has_fulltext": false,
+    "id": "https://openalex.org/W4405014432",
+    "ids": {
+      "doi": "https://doi.org/10.1016/j.jaccas.2024.102715",
+      "openalex": "https://openalex.org/W4405014432",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/39822800"
+    },
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "institution_assertions": [],
+    "institutions_distinct_count": 2,
+    "is_paratext": false,
+    "is_retracted": false,
+    "keywords": [
+      {
+        "display_name": "Interventricular septum",
+        "id": "https://openalex.org/keywords/interventricular-septum",
+        "score": 0.44579977
+      },
+      {
+        "display_name": "Valve replacement",
+        "id": "https://openalex.org/keywords/valve-replacement",
+        "score": 0.41722256
+      }
+    ],
+    "language": "en",
+    "locations": [
+      {
+        "is_accepted": true,
+        "is_oa": true,
+        "is_published": true,
+        "landing_page_url": "https://doi.org/10.1016/j.jaccas.2024.102715",
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "pdf_url": null,
+        "source": {
+          "display_name": "JACC Case Reports",
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "host_organization_name": "Elsevier BV",
+          "id": "https://openalex.org/S4210180918",
+          "is_core": true,
+          "is_in_doaj": true,
+          "is_indexed_in_scopus": true,
+          "is_oa": true,
+          "issn": [
+            "2666-0849"
+          ],
+          "issn_l": "2666-0849",
+          "type": "journal"
+        },
+        "version": "publishedVersion"
+      },
+      {
+        "is_accepted": false,
+        "is_oa": false,
+        "is_published": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39822800",
+        "license": null,
+        "license_id": null,
+        "pdf_url": null,
+        "source": {
+          "display_name": "PubMed",
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [
+            "National Institutes of Health"
+          ],
+          "host_organization_name": "National Institutes of Health",
+          "id": "https://openalex.org/S4306525036",
+          "is_core": false,
+          "is_in_doaj": false,
+          "is_indexed_in_scopus": false,
+          "is_oa": false,
+          "issn": null,
+          "issn_l": null,
+          "type": "repository"
+        },
+        "version": null
+      }
+    ],
+    "locations_count": 2,
+    "mesh": [],
+    "open_access": {
+      "any_repository_has_fulltext": false,
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1016/j.jaccas.2024.102715"
+    },
+    "primary_location": {
+      "is_accepted": true,
+      "is_oa": true,
+      "is_published": true,
+      "landing_page_url": "https://doi.org/10.1016/j.jaccas.2024.102715",
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "pdf_url": null,
+      "source": {
+        "display_name": "JACC Case Reports",
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "host_organization_name": "Elsevier BV",
+        "id": "https://openalex.org/S4210180918",
+        "is_core": true,
+        "is_in_doaj": true,
+        "is_indexed_in_scopus": true,
+        "is_oa": true,
+        "issn": [
+          "2666-0849"
+        ],
+        "issn_l": "2666-0849",
+        "type": "journal"
+      },
+      "version": "publishedVersion"
+    },
+    "primary_topic": {
+      "display_name": "Cardiac Valve Diseases and Treatments",
+      "domain": {
+        "display_name": "Health Sciences",
+        "id": "https://openalex.org/domains/4"
+      },
+      "field": {
+        "display_name": "Medicine",
+        "id": "https://openalex.org/fields/27"
+      },
+      "id": "https://openalex.org/T10172",
+      "score": 0.9998,
+      "subfield": {
+        "display_name": "Cardiology and Cardiovascular Medicine",
+        "id": "https://openalex.org/subfields/2705"
+      }
+    },
+    "publication_date": "2024-12-04",
+    "publication_year": 2024,
+    "referenced_works": [
+      "https://openalex.org/W2258506069",
+      "https://openalex.org/W2332464487",
+      "https://openalex.org/W2784424896",
+      "https://openalex.org/W2891684173",
+      "https://openalex.org/W2954302269",
+      "https://openalex.org/W3097218862",
+      "https://openalex.org/W3133890634",
+      "https://openalex.org/W4214897083",
+      "https://openalex.org/W4223421467",
+      "https://openalex.org/W4298127271",
+      "https://openalex.org/W4324331636"
+    ],
+    "referenced_works_count": 11,
+    "related_works": [
+      "https://openalex.org/W4387497383",
+      "https://openalex.org/W3183948672",
+      "https://openalex.org/W3173606202",
+      "https://openalex.org/W3110381201",
+      "https://openalex.org/W2948807893",
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2778153218",
+      "https://openalex.org/W2758277628",
+      "https://openalex.org/W1972044789",
+      "https://openalex.org/W1531601525"
+    ],
+    "sustainable_development_goals": [
+      {
+        "display_name": "Good health and well-being",
+        "id": "https://metadata.un.org/sdg/3",
+        "score": 0.46
+      }
+    ],
+    "title": "Transcatheter Aortic Valve Replacement in Patients With Interventricular Membranous Septal Aneurysms",
+    "topics": [
+      {
+        "display_name": "Cardiac Valve Diseases and Treatments",
+        "domain": {
+          "display_name": "Health Sciences",
+          "id": "https://openalex.org/domains/4"
+        },
+        "field": {
+          "display_name": "Medicine",
+          "id": "https://openalex.org/fields/27"
+        },
+        "id": "https://openalex.org/T10172",
+        "score": 0.9998,
+        "subfield": {
+          "display_name": "Cardiology and Cardiovascular Medicine",
+          "id": "https://openalex.org/subfields/2705"
+        }
+      },
+      {
+        "display_name": "Cardiac Structural Anomalies and Repair",
+        "domain": {
+          "display_name": "Health Sciences",
+          "id": "https://openalex.org/domains/4"
+        },
+        "field": {
+          "display_name": "Medicine",
+          "id": "https://openalex.org/fields/27"
+        },
+        "id": "https://openalex.org/T12598",
+        "score": 0.9993,
+        "subfield": {
+          "display_name": "Surgery",
+          "id": "https://openalex.org/subfields/2746"
+        }
+      },
+      {
+        "display_name": "Mechanical Circulatory Support Devices",
+        "domain": {
+          "display_name": "Physical Sciences",
+          "id": "https://openalex.org/domains/3"
+        },
+        "field": {
+          "display_name": "Engineering",
+          "id": "https://openalex.org/fields/22"
+        },
+        "id": "https://openalex.org/T10675",
+        "score": 0.9976,
+        "subfield": {
+          "display_name": "Biomedical Engineering",
+          "id": "https://openalex.org/subfields/2204"
+        }
+      }
+    ],
+    "type": "article",
+    "type_crossref": "journal-article",
+    "updated_date": "2025-06-12T10:54:59.862586",
+    "versions": []
+  },
+  "pub_year": 2024,
+  "pubmed_json": null,
+  "sulpub_json": null,
+  "title": "Transcatheter Aortic Valve Replacement in Patients With Interventricular Membranous Septal Aneurysms",
+  "updated_at": "2025-07-11 22:49:09.023491",
+  "wos_json": null
+}
